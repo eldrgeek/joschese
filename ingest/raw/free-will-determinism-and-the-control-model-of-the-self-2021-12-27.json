@@ -1,0 +1,69 @@
+{
+  "xposts": [
+    {
+      "title": "Free will as agent's representation of uncertain decisions",
+      "url": "https://x.com/Plinz/status/1588620063560515584",
+      "date": "2022-11-04",
+      "excerpt": "Free will is an agent’s representation of decision making under uncertainty. Since you cannot predict your decisions before you make them, they are unpredictable to you.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will: unpredictable decisions shape the future",
+      "url": "https://x.com/Plinz/status/1578066812322734080",
+      "date": "2022-10-06",
+      "excerpt": "Free will is an agent's representation of itself making decisions under uncertainty: the outcome of your decisions is necessarily unpredictable (to you and others who perceive you as having free will) before you make them, and it shapes the future.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Self implemented as control model for agency",
+      "url": "https://x.com/Plinz/status/1531393453086498816",
+      "date": "2022-05-30",
+      "excerpt": "Your mind discovers the spark of your agency, and implements the self as a control model, facilitating that agent. Religious mythology is designed to jump-start the discovery of God's agency in your mind.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Agency as control over future states",
+      "url": "https://x.com/Plinz/status/1561030278411276288",
+      "date": "2022-08-20",
+      "excerpt": "Maximizing agency is a much better general objective than maximizing happiness. Agency can be understood as the ability to control future states",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Gaining agency over involuntary behaviors",
+      "url": "https://x.com/Plinz/status/1512144866414776337",
+      "date": "2022-04-07",
+      "excerpt": "Many authentic human behaviors involve involuntary components (eg humor, anger, limerence, moral reactions). As we mature and grow more self aware, we gain agency over such behaviors and the involuntary aspect shrinks.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Self model and personal identity via explicit reference",
+      "url": "https://x.com/Plinz/status/1553503984114995200",
+      "date": "2022-07-30",
+      "excerpt": "The pattern is not the same, it tends to change a lot. Personal identity is not constituted over the similarity the self model has to its previous instances, but via an explicit reference",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "control model",
+      "definition": "The mind implements the self as a control model that facilitates agency by discovering and channeling the spark of personal agency within mental processes. This model enables the agent to represent and steer decisions under uncertainty.",
+      "provenance": ["https://x.com/Plinz/status/1531393453086498816"]
+    },
+    {
+      "title": "free will",
+      "definition": "An agent's internal representation of decision making under uncertainty; decisions appear free because their outcomes cannot be predicted in advance by the agent itself, allowing them to shape future states.",
+      "provenance": ["https://x.com/Plinz/status/1588620063560515584", "https://x.com/Plinz/status/1578066812322734080"]
+    },
+    {
+      "title": "agency",
+      "definition": "The ability to control future states, achieved by gaining awareness and influence over mental processes including involuntary behaviors and self models.",
+      "provenance": ["https://x.com/Plinz/status/1561030278411276288", "https://x.com/Plinz/status/1512144866414776337"]
+    }
+  ]
+}

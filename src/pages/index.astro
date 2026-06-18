@@ -1,0 +1,130 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const rawTerms = await getCollection('terms');
+const rawXposts = await getCollection('xposts');
+const rawVideos = await getCollection('videos');
+
+const terms = rawTerms.map(e => ({ slug: e.slug, title: e.data.title, subtitle: e.data.subtitle, definition: e.body, tags: e.data.tags, is_new: e.data.is_new }));
+
+const corpusCount = rawXposts.length + rawVideos.length;
+---
+<Base title="Home" description="Joschese — a field guide to Joscha Bach's ideas. A dictionary of his language, a corpus of his public thinking, and a window into computational philosophy of mind.">
+
+  <!-- Hero -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pt-16 pb-12">
+    <div class="max-w-2xl">
+      <p class="text-sm font-medium text-teal uppercase tracking-widest mb-4">A field guide</p>
+      <h1 class="font-serif text-4xl sm:text-5xl font-medium text-ink leading-tight mb-6">
+        Joschese
+      </h1>
+      <p class="text-xl text-muted font-serif italic mb-8 leading-relaxed">
+        A gateway to the ideas of Joscha Bach — and to his way of thinking — through a dialect we call Joschese.
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/dictionary/" class="inline-flex items-center gap-2 bg-teal text-white px-5 py-2.5 rounded-md text-sm font-medium hover:bg-teal-mid transition-colors">
+          Open Dictionary
+        </a>
+        <a href="/corpus/" class="inline-flex items-center gap-2 bg-white border border-border text-ink px-5 py-2.5 rounded-md text-sm font-medium hover:bg-surface transition-colors">
+          Browse Corpus
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- What is Joschese -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-10 border-t border-border">
+    <div class="max-w-2xl">
+      <h2 class="font-serif text-2xl font-medium text-ink mb-4">What is Joschese?</h2>
+      <p class="text-muted leading-relaxed mb-4">
+        Joschese is a synthetic language abstracted from Joscha Bach's public thinking — primarily his X threads, talks, and podcasts. It makes it easier to think and communicate about consciousness, computation, agency, and what minds might be.
+      </p>
+      <p class="text-muted leading-relaxed mb-4">
+        We've created the Joschese-English dictionary based on the idea that having a word or phrase that points to an idea — rather than a paragraph that gropes toward it — is a valuable cognitive affordance. A name lets you hold a complex idea as a single object: pick it up, combine it with others, reason with it, hand it to someone else.
+      </p>
+      <p class="text-muted leading-relaxed mb-4">
+        Each term in the lexicon — <em>cyber-animism</em>, <em>computational functionalism</em>, <em>controlled hallucination</em>, <em>lebenswelt</em> — points toward a particular idea, with links to the posts and talks that gave rise to it. The more of the language you understand, the easier it is to see the single pattern behind all of it.
+      </p>
+      <p class="text-muted leading-relaxed">
+        That is why this is a gateway and not a glossary: the dictionary gets you to the doorway, and the corpus is the room.
+      </p>
+    </div>
+  </section>
+
+  <!-- About Joscha -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-10 border-t border-border">
+    <div class="grid md:grid-cols-2 gap-12 items-start">
+      <div>
+        <h2 class="font-serif text-2xl font-medium text-ink mb-4">Who is Joscha Bach?</h2>
+        <p class="text-muted leading-relaxed mb-4">
+          Joscha Bach is a cognitive scientist and AI researcher whose work asks a disquieting question: what if consciousness is not a mystery substance but a simulation the brain runs — a story it tells itself about being someone?
+        </p>
+        <p class="text-muted leading-relaxed mb-4">
+          His thinking spans computational functionalism, cyber-animism, the nature of meaning in language models, AI alignment, and a rationalist reinterpretation of spirituality. Much of it lives on X (@Plinz), where he develops ideas in long threads rather than formal papers.
+        </p>
+        <p class="text-muted leading-relaxed">
+          This site organizes that vocabulary, makes the corpus searchable, and offers a way to converse with the ideas through an AI guide grounded in his public output — not impersonating him.
+        </p>
+        <div class="mt-6 flex flex-wrap gap-x-5 gap-y-2 text-sm">
+          <a href="https://x.com/Plinz" target="_blank" rel="noopener" class="text-teal hover:text-teal-mid font-medium transition-colors">@Plinz on X ↗</a>
+          <a href="https://bach.ai/" target="_blank" rel="noopener" class="text-teal hover:text-teal-mid font-medium transition-colors">bach.ai ↗</a>
+        </div>
+      </div>
+      <div>
+        <h2 class="font-serif text-2xl font-medium text-ink mb-4">What's in the archive</h2>
+        <div class="mb-4">
+          <a href="/corpus/" class="inline-flex items-baseline gap-2">
+            <span class="font-mono text-3xl font-medium text-teal">{corpusCount}</span>
+            <span class="text-muted text-sm hover:text-teal transition-colors">corpus items →</span>
+          </a>
+        </div>
+        <div class="space-y-2">
+          {[
+            { count: String(rawXposts.length), label: 'X posts & threads', href: '/corpus/?type=xpost' },
+            { count: String(rawVideos.length), label: 'talks & podcasts', href: '/corpus/?type=video' },
+            { count: String(terms.length), label: 'dictionary terms', href: '/dictionary/' },
+          ].map(({ count, label, href }) => (
+            <div class="flex items-baseline gap-3">
+              <span class="font-mono text-xl font-medium text-teal/80 w-10 text-right">{count}</span>
+              <a href={href} class="text-muted text-sm hover:text-teal transition-colors">{label} →</a>
+            </div>
+          ))}
+        </div>
+        <div class="mt-6 text-sm text-muted">
+          Formal papers are sparse in Joscha's output — the spine here is X threads and talks.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dictionary preview -->
+  {terms.length > 0 && (
+    <section class="max-w-5xl mx-auto px-4 sm:px-6 py-10 border-t border-border">
+      <div class="flex items-baseline justify-between mb-6">
+        <h2 class="font-serif text-2xl font-medium text-ink">Dictionary</h2>
+        <a href="/dictionary/" class="text-sm text-teal hover:text-teal-mid font-medium">All {terms.length} terms →</a>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {terms.slice(0, 6).map(term => (
+          <a href={`/dictionary/#${term.slug}`} class="group block bg-white border border-border rounded-lg p-4 hover:border-teal/40 hover:shadow-sm transition-all">
+            <div class="flex items-start justify-between gap-2 mb-2">
+              <h3 class="font-serif font-medium text-ink group-hover:text-teal transition-colors">{term.title}</h3>
+              {term.is_new && (
+                <span class="shrink-0 text-xs bg-amber-light text-amber px-2 py-0.5 rounded-full font-medium">new</span>
+              )}
+            </div>
+            {term.subtitle && (
+              <p class="text-xs text-muted italic mb-2">{term.subtitle}</p>
+            )}
+            <p class="text-sm text-muted line-clamp-3" set:html={term.definition.replace(/<[^>]+>/g, ' ').trim().slice(0, 140) + '…'} />
+            <div class="mt-3 text-xs text-teal font-medium opacity-0 group-hover:opacity-100 transition-opacity">
+              Read definition →
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+</Base>

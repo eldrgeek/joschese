@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Universe as mathematical object with causal transitions",
+      "url": "https://x.com/Plinz/status/2053944120851492995",
+      "date": "2026-05-11",
+      "excerpt": "It means that the universe is a mathematical object. There are no properties but difference. Causality emerges over functions that implement subsequent differences (transitions between information states)",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Causal insulation as key to computation in minds",
+      "url": "https://x.com/Plinz/status/2056479512490340704",
+      "date": "2026-05-18",
+      "excerpt": "What makes computation important to understanding life and minds is not the Turing machine, but the principle of causal insulation. Computers create their own, self contained world, fully governed by rules that are independent from the dynamics of the substrate.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Kolmogorov complexity of base reality should be 0",
+      "url": "https://x.com/Plinz/status/2065364765929783709",
+      "date": "2026-06-12",
+      "excerpt": "Kolmogorov complexity measures the minimal length of the description of what needs to happen to make a thing. (It depends on a computational language, but you can compile them all into each other.) The Kolmogorov complexity of base reality should be 0.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Physics as computational object from unconstrained automaton",
+      "url": "https://x.com/Plinz/status/2065366388466962846",
+      "date": "2026-06-12",
+      "excerpt": "The most influential proponent of the idea that the standard model of physics might emerge from a maximally unconstrained automaton (everything that is possible happens) the independent philosopher Stephen Wolfram (even though he expresses it differently).",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Patterns require substrates; matter as persistent patterns",
+      "url": "https://x.com/Plinz/status/2065357218804015373",
+      "date": "2026-06-12",
+      "excerpt": "Patterns require substrates (the allusion of pater:mater to pattern:matrix/matter is fascinating). Colloquially, matter means stuff, but in physics it amounts to persistent compositional localized patterns in a spacetime. Informational perspectives unify matter, energy and space.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Consciousness as pattern in stuff; physicalism's evidential base",
+      "url": "https://x.com/Plinz/status/2065359614934442123",
+      "date": "2026-06-12",
+      "excerpt": "My consciousness cannot be foundational because it is a pattern in stuff (one can test this by doing things to the stuff). Stuff cannot be foundational, because something needs to enact its causal patterns.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    }
+  ],
+  "terms": [
+    {
+      "title": "causal insulation",
+      "definition": "The principle that makes computation relevant to life and minds: computers create self-contained worlds governed by rules independent of substrate dynamics, enabling isolated causal processes.",
+      "provenance": ["https://x.com/Plinz/status/2056479512490340704"]
+    },
+    {
+      "title": "maximally unconstrained automaton",
+      "definition": "A computational structure (associated with Wolfram) where everything possible happens, from which the standard model of physics might emerge as a description of base reality's patterns.",
+      "provenance": ["https://x.com/Plinz/status/2065366388466962846"]
+    }
+  ]
+}

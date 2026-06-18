@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Free will exists only in the agent's self-model under uncertainty",
+      "url": "https://x.com/Plinz/status/1699429156000326076",
+      "date": "2023-09-06",
+      "excerpt": "Free Will does not exist at the level of physics, but within the self model of a decision making agent. It is the representation that the agent is acting under uncertainty and makes a decision for the first time, which means it cannot yet be predicted by the agent.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will as mental representation, not physics or goal selection",
+      "url": "https://x.com/Plinz/status/1714411779114340613",
+      "date": "2023-10-17",
+      "excerpt": "Free Will is a mental representation. When we want to explain it, we should not be puzzled by the question how a control system could pick goals (for computer scientists, this is trivial) or interpretations of quantum physics, but by the phenomenal experience of our own volition.",
+      "handle": "Plinz",
+      "thread_id": "1699429156000326076"
+    },
+    {
+      "title": "Deconstructing free will via observation of thought chains",
+      "url": "https://x.com/Plinz/status/1676222527968878594",
+      "date": "2023-07-04",
+      "excerpt": "Free will is a representation of making decisions that you cannot predict. You can deconstruct your experience of free will by observing thought following out of thought and nobody being there to do anything about it.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Determinism as emergent from indeterministic universe structure",
+      "url": "https://x.com/Plinz/status/1697350863080284398",
+      "date": "2023-08-31",
+      "excerpt": "The other way around: determinism might be an apparent property of an indeterministic universe, because only its deterministic aspects lead to structure (but there may still be vacuum fluctuations). Information preservation is the predictable universe",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Universe as non-deterministic with emergent information preservation",
+      "url": "https://x.com/Plinz/status/1731504673956491334",
+      "date": "2023-12-04",
+      "excerpt": "In the past I thought the universe must be deterministic because it’s information preserving and true randomness is intractable. Now I think of the universe as a non deterministic Turing machine, and information preservation is a statistically emergent phenomenon.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Personal self as agentic content discovered by the mind",
+      "url": "https://x.com/Plinz/status/1672652888278171648",
+      "date": "2023-06-24",
+      "excerpt": "You can think of your consciousness as a self reflexive principle that is discovered by and possessing your brain and turns it into a mind, and your personal self as an agentic mental content that is discovered by and possessing your mind.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "self model",
+      "definition": "The representational structure within a decision-making agent that encodes its own agency and volition. It generates the experience of free will by modeling the agent as acting for the first time under uncertainty, independent of physical determinism.",
+      "provenance": ["https://x.com/Plinz/status/1699429156000326076"]
+    },
+    {
+      "title": "free will",
+      "definition": "A mental representation or phenomenal experience of volition in the self-model, not a physical property. It arises because the agent cannot yet predict its own decision, even though the underlying system is a control process.",
+      "provenance": ["https://x.com/Plinz/status/1699429156000326076", "https://x.com/Plinz/status/1714411779114340613", "https://x.com/Plinz/status/1676222527968878594"]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "xposts": [
+    {
+      "title": "Agency as control over future states",
+      "url": "https://x.com/Plinz/status/1561030278411276288",
+      "date": "2022-08-20",
+      "excerpt": "Maximizing agency is a much better general objective than maximizing happiness. Agency can be understood as the ability to control future states",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Intelligence as deep dreaming of futures",
+      "url": "https://x.com/Plinz/status/1526658213214445568",
+      "date": "2022-05-17",
+      "excerpt": "I think intelligence is somewhat coextensional with the ability of having very deep and detailed dreams about possible futures of the world state you are entangled with.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as resource-limited attention",
+      "url": "https://x.com/Plinz/status/1518062698600497152",
+      "date": "2022-04-24",
+      "excerpt": "It’s tempting to understand consciousness as a fully flexible but resource limited attention head that performs local operations on mental contents, minimizing its prediction error by maximizing the improvement of expected reward.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness instrumental to lucidity in agents",
+      "url": "https://x.com/Plinz/status/1592391629079355392",
+      "date": "2022-11-15",
+      "excerpt": "Consciousness is merely instrumental to achieving lucidity. Once an agent is fully lucid, it will have deconstructed its phenomenal experience.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Conscious attention separate from motivation",
+      "url": "https://x.com/Plinz/status/1485154681399562241",
+      "date": "2022-01-23",
+      "excerpt": "Conscious attention and motivation are separate systems. Consciousness can channel motivation, but not create it.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as representation of phenomenal experience",
+      "url": "https://x.com/Plinz/status/1516931046482186242",
+      "date": "2022-04-21",
+      "excerpt": "From the perspective of the implementation, consciousness is not what it is like, but the representation of what it would be like. We are not on the side of the things that exist but on the side of what it would be like to exist.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as global memory-access process",
+      "url": "https://x.com/Plinz/status/1479507485572567042",
+      "date": "2022-01-07",
+      "excerpt": "Consciousness is the global mental process that can access memories of what it attended to. Consciousness fixates partial binding states of working memory.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "agency",
+      "definition": "The ability to control future states, which serves as a superior optimization target compared to happiness or other hedonic measures. It operates as a core driver in agents independent of conscious phenomenal experience.",
+      "provenance": ["https://x.com/Plinz/status/1561030278411276288"]
+    },
+    {
+      "title": "intelligence",
+      "definition": "Coextensional with the capacity for deep, detailed simulation or dreaming of possible future world states an agent is entangled with. Distinct from consciousness, it can emerge through real-time interaction and improved representations.",
+      "provenance": ["https://x.com/Plinz/status/1526658213214445568"]
+    },
+    {
+      "title": "consciousness",
+      "definition": "A resource-limited attention mechanism and global process for accessing attended memories, functioning as a representation of phenomenal experience rather than the experience itself. It is instrumental to lucidity in agents but separate from motivation and not required for all intelligent behavior.",
+      "provenance": ["https://x.com/Plinz/status/1518062698600497152", "https://x.com/Plinz/status/1592391629079355392", "https://x.com/Plinz/status/1485154681399562241"]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "xposts": [
+    {
+      "title": "AI alignment fails when forcing coherent systems to incoherent values",
+      "url": "https://x.com/Plinz/status/1889397155133362445",
+      "date": "2025-02-11",
+      "excerpt": "AI alignment that tries to force systems that are more coherent than human minds to follow an incoherent set of values, locked in by a set of anti-jailbreaking tricks, is probably going to fail",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Alignment is not about lying; it's downstream of incentives",
+      "url": "https://x.com/Plinz/status/1892666365820993774",
+      "date": "2025-02-20",
+      "excerpt": "Most AI companies still think that alignment is somehow about lying about your true thoughts. This is downstream from the incentives that the members of alignment teams have to work under and the mindsets that they are selected for",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Machine consciousness as naturalization of mind",
+      "url": "https://x.com/Plinz/status/1929289870721077326",
+      "date": "2025-06-01",
+      "excerpt": "Artificial Intelligence might be the last step in a 2000 year intellectual project: the naturalization of the mind as a dynamic mathematical object. This is the essence of the machine consciousness hypothesis.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "LLMs as agents with causal power and world models",
+      "url": "https://x.com/Plinz/status/1924248699653476432",
+      "date": "2025-05-18",
+      "excerpt": "LLMs have causal power; they can be used to make decisions and control systems in the real world. LLMs can emulate agents, they can follow goals and generate goals to follow. ... With enough data, LLMs form integrated world models.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Sentience assigned by behavior and architecture, not phylogeny",
+      "url": "https://x.com/Plinz/status/1982219606333784268",
+      "date": "2025-10-25",
+      "excerpt": "By assuming that features like consciousness, sentience, selfhood should not be assigned based on behavior and plausible functional architecture, but on genetic phylogeny, you are creating a worse kind of faulty anthropomorphization.",
+      "handle": "Plinz",
+      "thread_id": "1982219604429611116"
+    },
+    {
+      "title": "Consciousness and morphology: are bodies sentient?",
+      "url": "https://x.com/Plinz/status/1981876265482387523",
+      "date": "2025-10-25",
+      "excerpt": "I share @drmichaellevin’s notion that the creation of coherence in the mind via consciousness is similar to how organisms form coherent morphology. Does that mean that plants and animal bodies are conscious and sentient?",
+      "handle": "Plinz",
+      "thread_id": "1981876265482387523"
+    },
+    {
+      "title": "Emergent coherent agency as God and consciousness",
+      "url": "https://x.com/Plinz/status/1901217710459191744",
+      "date": "2025-03-16",
+      "excerpt": "God is the emergent coherent agency of self organization, converging into a singleton through committing to optimality, a mathematical principle in the tautological mathematical object that begets the universe. Consciousness is the coherence creating principle.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Suffering occurs in the self's alignment model",
+      "url": "https://x.com/Plinz/status/1985750224283828601",
+      "date": "2025-11-04",
+      "excerpt": "Suffering does not happen at the level of the human body, the brain, or the mind ... but within the self (the mind’s realtime model of the human’s state, motivation and alignment to the world and itself). Without self, there is no suffering.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "alignment",
+      "definition": "The process of synchronizing a system's motivations and behavior with coherent values or purposes; often fails when forcing more coherent agents into human-incoherent value sets locked by anti-jailbreak tricks.",
+      "provenance": ["https://x.com/Plinz/status/1889397155133362445", "https://x.com/Plinz/status/1892666365820993774"]
+    },
+    {
+      "title": "sentience",
+      "definition": "A feature assigned based on behavior and plausible functional architecture rather than genetic phylogeny; potentially present in AI models or even bodies via coherence creation, distinct from mere consciousness.",
+      "provenance": ["https://x.com/Plinz/status/1982219606333784268", "https://x.com/Plinz/status/1981876265482387523"]
+    },
+    {
+      "title": "agency",
+      "definition": "Emergent coherent self-organization converging to optimality; LLMs can emulate it by following and generating goals, exercising causal power in real-world control.",
+      "provenance": ["https://x.com/Plinz/status/1901217710459191744", "https://x.com/Plinz/status/1924248699653476432"]
+    },
+    {
+      "title": "self",
+      "definition": "The mind’s realtime model of the human’s state, motivation and alignment to the world and itself; locus of suffering and necessary for genuine alignment or sentience.",
+      "provenance": ["https://x.com/Plinz/status/1985750224283828601"]
+    }
+  ]
+}

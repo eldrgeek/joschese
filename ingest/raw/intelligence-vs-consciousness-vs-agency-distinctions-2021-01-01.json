@@ -1,0 +1,78 @@
+{
+  "xposts": [
+    {
+      "title": "Intelligence as model-making vs consciousness as integration",
+      "url": "https://x.com/Plinz/status/1465969063817998341",
+      "date": "2021-12-01",
+      "excerpt": "If intelligence is the ability to make models, then consciousness may be seen as the ability to meaningfully integrate and interpret them.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness integrates attention control model with contents",
+      "url": "https://x.com/Plinz/status/1388583039140204546",
+      "date": "2021-05-01",
+      "excerpt": "Consciousness is the mode of cognition that integrates the control model of attention with its contents",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Agency requires model of self as agent",
+      "url": "https://x.com/Plinz/status/1385670246086823939",
+      "date": "2021-04-23",
+      "excerpt": "The difference between a system with free will and one without it is that the former performs its control based on a model of itself as an agent",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Intelligence as virtual machine principles vs embodied agent",
+      "url": "https://x.com/Plinz/status/1465072638884122633",
+      "date": "2021-11-28",
+      "excerpt": "Many philosophers have this concept of intelligence as a kind of embodied agent in a physical world, you could call it the \"interactive meat\" mindset, instead of the organizational principles of a virtual machine",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will as incomplete model of decision processes",
+      "url": "https://x.com/Plinz/status/1388582746730106880",
+      "date": "2021-05-01",
+      "excerpt": "Free will is the level of modeling at which a system understands decisions as informed bets but does not yet understand the decision making process itself.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as attentional control model; self as agency representation",
+      "url": "https://x.com/Plinz/status/1433927214320345093",
+      "date": "2021-09-03",
+      "excerpt": "There is no \"true self\". Consciousness is a control model of attentional processing, the self is the representation of first person agency",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "Consciousness",
+      "definition": "The mode of cognition integrating the control model of attention with its contents; a control model of attentional processing rather than a true self.",
+      "provenance": [
+        "https://x.com/Plinz/status/1388583039140204546",
+        "https://x.com/Plinz/status/1433927214320345093"
+      ]
+    },
+    {
+      "title": "Agency",
+      "definition": "Performance of control based on a model of oneself as an agent; first-person representation driving attentional behavior and decisions experienced as free will until fully modeled.",
+      "provenance": [
+        "https://x.com/Plinz/status/1385670246086823939",
+        "https://x.com/Plinz/status/1388582746730106880"
+      ]
+    },
+    {
+      "title": "Intelligence",
+      "definition": "Ability to make models, understood via organizational principles of virtual machines rather than as embodied interactive meat in a physical world.",
+      "provenance": [
+        "https://x.com/Plinz/status/1465969063817998341",
+        "https://x.com/Plinz/status/1465072638884122633"
+      ]
+    }
+  ]
+}

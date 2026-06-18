@@ -1,0 +1,56 @@
+{
+  "xposts": [
+    {
+      "title": "Consciousness independent of agency",
+      "url": "https://x.com/Plinz/status/2050042155734040797",
+      "date": "2026-05-01",
+      "excerpt": "Consciousness is also not necessarily agentic. Agency and consciousness may be independent",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness not graded like agency",
+      "url": "https://x.com/Plinz/status/2064537561062945075",
+      "date": "2026-06-10",
+      "excerpt": "Consciousness does not seem to come in degrees (but awareness, integration, lucidity and agency do). Either “the lights are on” or off.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness vibecodes intelligence",
+      "url": "https://x.com/Plinz/status/2061192961459904977",
+      "date": "2026-05-31",
+      "excerpt": "Consciousness is a process that vibecodes human intelligence.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as dream of dreaming",
+      "url": "https://x.com/Plinz/status/2065353287260611006",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is the dream of dreaming. It establishes the perception that percepts are being perceived. Consciousness is a type of representation...",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Consciousness autocatalytic unlike LLMs",
+      "url": "https://x.com/Plinz/status/2065238602054021618",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is autocatalytic: it feeds on the substrate conditions it creates. LLMs are not autocatalytic...",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "consciousness",
+      "definition": "A non-graded, autocatalytic representation or process (dream of dreaming) that establishes perception of perception; not necessarily agentic and independent of intelligence or awareness.",
+      "provenance": ["https://x.com/Plinz/status/2064537561062945075", "https://x.com/Plinz/status/2065238602054021618", "https://x.com/Plinz/status/2050042155734040797"]
+    },
+    {
+      "title": "agency",
+      "definition": "A graded capacity (alongside awareness/integration/lucidity) that can operate independently of consciousness.",
+      "provenance": ["https://x.com/Plinz/status/2064537561062945075", "https://x.com/Plinz/status/2050042155734040797"]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Free will as self-model of agency in control",
+      "url": "https://x.com/Plinz/status/1385670246086823939",
+      "date": "2021-04-23",
+      "excerpt": "The difference between a system with free will and one without it is that the former performs its control based on a model of itself as an agent",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will disappears when decision process is modeled",
+      "url": "https://x.com/Plinz/status/1388582746730106880",
+      "date": "2021-05-01",
+      "excerpt": "Free will is the level of modeling at which a system understands decisions as informed bets but does not yet understand the decision making process itself. Where you fully capture the decision making processes of agents (yourself or others), they won’t appear to have free will.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will: making vs. predicting your decisions",
+      "url": "https://x.com/Plinz/status/1366140101567291392",
+      "date": "2021-02-28",
+      "excerpt": "For understanding free will, it helps to focus on the difference between making your decisions and predicting your decisions",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will as decision-making under uncertainty",
+      "url": "https://x.com/Plinz/status/1469593122669678594",
+      "date": "2021-12-11",
+      "excerpt": "Free will is what decision making under uncertainty looks like between discovering the first person perspective and deconstructing the first person perspective",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Determinism compatible with experienced free will",
+      "url": "https://x.com/Plinz/status/1435294601137381376",
+      "date": "2021-09-07",
+      "excerpt": "The uncertainty is not the result of indeterminism. A fully deterministic decision making process that uses an unknown algorithm, state or input can still be experienced as free. Free will is a representation of agency. Agency is diminished by randomness.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Agency as control of the future",
+      "url": "https://x.com/Plinz/status/1474642926214860800",
+      "date": "2021-12-25",
+      "excerpt": "Our past and our future fall apart into possibilities, beyond our ability to model and control, including the past and future of our own identity. Agency is the ability to take control of the future",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "control model of the self",
+      "definition": "A system has free will when it performs its control based on an internal model of itself as an agent making decisions. This self-model enables reflective agency without requiring actual indeterminism.",
+      "provenance": ["https://x.com/Plinz/status/1385670246086823939"]
+    },
+    {
+      "title": "agency",
+      "definition": "The ability to take control of the future via a self-model; diminished by randomness even in deterministic systems. Free will is the experiential representation of this agency at the level of first-person decision-making.",
+      "provenance": ["https://x.com/Plinz/status/1435294601137381376", "https://x.com/Plinz/status/1474642926214860800"]
+    }
+  ]
+}

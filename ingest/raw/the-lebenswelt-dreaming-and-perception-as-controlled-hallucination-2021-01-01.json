@@ -1,0 +1,53 @@
+{
+  "xposts": [
+    {
+      "title": "All structure is hallucinated, competing predictions",
+      "url": "https://x.com/Plinz/status/1356825662678392835",
+      "date": "2021-02-03",
+      "excerpt": "All structure is in some sense hallucinated, while reachable hallucinations compete over which one best predicts the currently observed patterns, no?",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "GPT-3 spins up and begins to dream briefly",
+      "url": "https://x.com/Plinz/status/1392216567044210688",
+      "date": "2021-05-11",
+      "excerpt": "Every time someone sends a prompt to GPT-3 it spins up and begins to dream for a fraction of a second. If we could build a continuously learning system that can dream about camera feeds...",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Body model: predictive simulation + delayed glue",
+      "url": "https://x.com/Plinz/status/1347738259539914753",
+      "date": "2021-01-09",
+      "excerpt": "The real-time model of our body we perceive is actually a mixture of predictive simulation and glue that is being fitted to the actual body model; the actual body model is delayed by hundreds of ms...",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Objects compress perceptual reality to predict forward",
+      "url": "https://x.com/Plinz/status/1414011192062869510",
+      "date": "2021-07-10",
+      "excerpt": "Objects is what we are compressing perceptual reality to. The set of visual objects is the set of parameterized pointers that need to be kept stable to predict the visible imagery forward to the next frame.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "DMT receptors induce dreaming via unconstraining perception",
+      "url": "https://x.com/Plinz/status/1469779708166361088",
+      "date": "2021-12-11",
+      "excerpt": "I suspect they all dock into the same DMT shaped receptors that induce dreaming while not inhibiting long term memory formation. The rest is unconstraining of perception via disinhibiting serotonergic messaging...",
+      "handle": "Plinz",
+      "thread_id": "1469770374162178052"
+    },
+    {
+      "title": "Emotion modulates cognition, changing how the world looks",
+      "url": "https://x.com/Plinz/status/1418768368249708545",
+      "date": "2021-07-24",
+      "excerpt": "Emotion is not a parameter within cognition, but modulation of cognition. Cognition is embedded in the emotional regulation. If parameters like arousal, valence, focus change, the world will look different to you...",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": []
+}

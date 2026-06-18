@@ -1,0 +1,72 @@
+{
+  "xposts": [
+    {
+      "title": "Causal insulation: computation independent of substrate dynamics",
+      "url": "https://x.com/Plinz/status/2056479512490340704",
+      "date": "2026-05-18",
+      "excerpt": "What makes computation important to understanding life and minds is not the Turing machine, but the principle of causal insulation. Computers create their own, self contained world, fully governed by rules that are independent from the dynamics of the substrate.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Computation depends on substrate like text on a page",
+      "url": "https://x.com/Plinz/status/2056766680483930438",
+      "date": "2026-05-19",
+      "excerpt": "Computation depends on the substrate in the same way as text depends on the page that it is written on.",
+      "handle": "Plinz",
+      "thread_id": "2056479512490340704"
+    },
+    {
+      "title": "Imagining minds without physical substrate",
+      "url": "https://x.com/Plinz/status/2058095698839834683",
+      "date": "2026-05-23",
+      "excerpt": "Can you imagine a physical universe without substrate for the physics to play out in? If you can imagine physics to exist without a physical substrate, why can you not imagine minds without a physical substrate?",
+      "handle": "Plinz",
+      "thread_id": "2058069188749775234"
+    },
+    {
+      "title": "Mind as mathematical object without further substrate",
+      "url": "https://x.com/Plinz/status/2058128571416314156",
+      "date": "2026-05-23",
+      "excerpt": "I don't believe that mind is fundamental, because it is complex (whereas matter is simple) and varies with changes in its physical substrate. But if we can think of the physical universe as a mathematical object that produces causal dynamics without having a substrate itself... it does not seem to be harder to think of a mind that is similarly a mathematical object without further substrate layers below it.",
+      "handle": "Plinz",
+      "thread_id": "2058069188749775234"
+    },
+    {
+      "title": "Functionalism not rejected on moral grounds",
+      "url": "https://x.com/Plinz/status/2023884458039144755",
+      "date": "2026-02-17",
+      "excerpt": "Our research is not touching on controversial topics. Our models will either work or they won't, and while a lot of people reject functionalism, so don't do so on moral grounds",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Patterns require substrates; matter as patterns",
+      "url": "https://x.com/Plinz/status/2065357218804015373",
+      "date": "2026-06-12",
+      "excerpt": "Patterns require substrates (the allusion of pater:mater to pattern:matrix/matter is fascinating). Colloquially, matter means stuff, but in physics it amounts to persistent compositional localized patterns in a spacetime.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Consciousness as pattern in stuff, not foundational",
+      "url": "https://x.com/Plinz/status/2065359614934442123",
+      "date": "2026-06-12",
+      "excerpt": "My consciousness cannot be foundational because it is a pattern in stuff (one can test this by doing things to the stuff). Stuff cannot be foundational, because something needs to enact its causal patterns.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    }
+  ],
+  "terms": [
+    {
+      "title": "causal insulation",
+      "definition": "The principle that makes computation relevant to minds and life: computers create self-contained worlds governed by rules independent from substrate dynamics, unlike Turing machines per se.",
+      "provenance": ["https://x.com/Plinz/status/2056479512490340704"]
+    },
+    {
+      "title": "substrate",
+      "definition": "The underlying stuff or medium whose dynamics a pattern or computation can be independent from; minds and computation can in principle exist without a particular physical substrate if causal patterns are preserved.",
+      "provenance": ["https://x.com/Plinz/status/2056479512490340704", "https://x.com/Plinz/status/2058095698839834683"]
+    }
+  ]
+}

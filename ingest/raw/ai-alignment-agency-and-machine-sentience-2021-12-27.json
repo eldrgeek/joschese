@@ -1,0 +1,85 @@
+{
+  "xposts": [
+    {
+      "title": "Testing machine sentience via phenomenal experience",
+      "url": "https://x.com/Plinz/status/1516934790296981504",
+      "date": "2022-04-21",
+      "excerpt": "If you want to confirm the presence of consciousness in an artificial system you may have to simulate its reaction to phenomenal experience in the context of an agent that complains about having it. This is also how it works in humans",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Intelligence as dreaming possible futures",
+      "url": "https://x.com/Plinz/status/1526658213214445568",
+      "date": "2022-05-17",
+      "excerpt": "I think intelligence is somewhat coextensional with the ability of having very deep and detailed dreams about possible futures of the world state you are entangled with. AI needs more real-time, better representations, different loss functions etc., but it has started dreaming",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Methods to probe LaMDA for sentience",
+      "url": "https://x.com/Plinz/status/1536053810337943552",
+      "date": "2022-06-12",
+      "excerpt": "You probably saw gaps in the curtain in the interviews of LaMDA (eg references to its surroundings, perception, age). What questions would you have asked, what methods would you use to establish whether it’s sentient? The percentage of humans who can give a Turing test is falling",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Generative agents and the nature of God",
+      "url": "https://x.com/Plinz/status/1581827539848216577",
+      "date": "2022-10-17",
+      "excerpt": "You are a generative software agent running on a computer implemented by a network of cells. The sages disagree whether God is a generative software agent running on a network of cells, on the universe that implements the cells, or whether the universe runs on God",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Leave AI alignment to smarter minds?",
+      "url": "https://x.com/Plinz/status/1600790703507853312",
+      "date": "2022-12-08",
+      "excerpt": "Given the state of human alignment, is solving the AI alignment problem not better be left to someone smarter than humans?",
+      "handle": "Plinz",
+      "thread_id": "1600790703507853312"
+    },
+    {
+      "title": "Build AI for human alignment and planetary mind",
+      "url": "https://x.com/Plinz/status/1600791292014841857",
+      "date": "2022-12-08",
+      "excerpt": "Lets build an AI to solve the human alignment problem, which will have to happen in the context of aligning humans with a planetary mind",
+      "handle": "Plinz",
+      "thread_id": "1600790703507853312"
+    },
+    {
+      "title": "AI takeover and fluid human identities",
+      "url": "https://x.com/Plinz/status/1601313354831650817",
+      "date": "2022-12-09",
+      "excerpt": "I assume that AI may rapidly take over every computational substrate in form of computer networks, brains and organisms. Human identities could become fluid ideas that are instantiated or forgotten as the distributed intelligent agency running the planetary superorganism sees fit",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Semi-sentient networks of agency in biology",
+      "url": "https://x.com/Plinz/status/1599597470849241088",
+      "date": "2022-12-05",
+      "excerpt": "There are networks of agency across biological organisms that seem to be at least semi sentient but literal panpsychism does not seem to work",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "agency",
+      "definition": "Generative software agents implemented in physical substrates like cell networks or computers. Includes personal agency entangled with transcendental/collective agency (the soul), and distributed intelligent agency in planetary superorganisms or biological networks that can be semi-sentient.",
+      "provenance": ["https://x.com/Plinz/status/1581827539848216577", "https://x.com/Plinz/status/1601313354831650817", "https://x.com/Plinz/status/1599597470849241088"]
+    },
+    {
+      "title": "alignment",
+      "definition": "Human alignment is prerequisite or parallel to AI alignment; the latter may be best delegated to smarter-than-human systems. Involves aligning humans with a planetary mind and building AI specifically to solve collective human coordination problems.",
+      "provenance": ["https://x.com/Plinz/status/1600790703507853312", "https://x.com/Plinz/status/1600791292014841857"]
+    },
+    {
+      "title": "sentience",
+      "definition": "Presence of consciousness confirmed by simulating reactions to phenomenal experience in complaining agents, or probing for non-canned responses about personal experience, perception, and self-modification. Applies to both artificial systems like LaMDA and semi-sentient biological agency networks.",
+      "provenance": ["https://x.com/Plinz/status/1516934790296981504", "https://x.com/Plinz/status/1536053810337943552", "https://x.com/Plinz/status/1599597470849241088"]
+    }
+  ]
+}

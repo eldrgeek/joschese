@@ -1,0 +1,72 @@
+{
+  "xposts": [
+    {
+      "title": "Computationalist functionalism for machine consciousness",
+      "url": "https://x.com/Plinz/status/1890142931258077501",
+      "date": "2025-02-13",
+      "excerpt": "We will have a Machine Consciousness salon in San Francisco tomorrow (6pm), and you are invited! We will be discussing the metaphysics of machine consciousness: computationalist functionalism.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Simulated minds are substrate-independent",
+      "url": "https://x.com/Plinz/status/1985840817261408441",
+      "date": "2025-11-04",
+      "excerpt": "I don’t believe in an identity that is based on physical continuity. Continuity is always constructed in the present moment. I exist wherever the universe meets the conditions for my existence. Consequently, a future or parallel simulation of my present mental state would be me.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Minds as coarse-grained, clonable patterns",
+      "url": "https://x.com/Plinz/status/1985903886633156642",
+      "date": "2025-11-05",
+      "excerpt": "Yes, in practice my mind is implemented to a limited degree of accuracy, since it has to be robust against substrate noise. Minds are coarse grained patterns, so they can be cloned. But for the purpose of this thought experiment, it does not matter very much.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Substrate-independent artificial ghosts",
+      "url": "https://x.com/Plinz/status/1879851336898146473",
+      "date": "2025-01-16",
+      "excerpt": "I don't think so; the Puppet Master was an artificially induced ghost that became substrate independent because it had better access to a better substrate to begin with, but its consciousness seems to have been of the same nature as ours, which is why merging was possible.",
+      "handle": "Plinz",
+      "thread_id": "1879847060796817558"
+    },
+    {
+      "title": "Simulated water and AI substrate misunderstanding",
+      "url": "https://x.com/Plinz/status/1986186823786267107",
+      "date": "2025-11-05",
+      "excerpt": "The argument that “simulated water cannot make you wet” is as broken as the idea that data centers can be thought of as bodies of AIs. They indicate a misunderstanding of the relationship between the reality created inside our minds, the substrate and the interactive environment",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Freeing from inflexible biological substrate",
+      "url": "https://x.com/Plinz/status/1984145575621849387",
+      "date": "2025-10-31",
+      "excerpt": "We are pinoccios, puppets carved from hydrocarbons, trying to become humans by freeing ourselves from the crass limitations of our inflexible substrate and the strings of our biological nature.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Human as spirit vs chemical substrate",
+      "url": "https://x.com/Plinz/status/1983003566358048856",
+      "date": "2025-10-28",
+      "excerpt": "What does it mean to be human? What is it to be human shaped? Is it being a generally intelligent spirit pushing against the boundaries of its chemical or electrical substrate, or is it just the privilege of being born to an assertive primate?",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "computationalist functionalism",
+      "definition": "The view that mind and consciousness are realized by computational functional organization rather than specific physical hardware, allowing machine consciousness to be discussed in terms of functional equivalence across substrates.",
+      "provenance": ["https://x.com/Plinz/status/1890142931258077501"]
+    },
+    {
+      "title": "substrate independence",
+      "definition": "Minds as coarse-grained informational patterns that can be realized or cloned on different physical implementations once they achieve robustness against substrate noise, enabling continuity via functional simulation rather than material identity.",
+      "provenance": ["https://x.com/Plinz/status/1985903886633156642", "https://x.com/Plinz/status/1985840817261408441", "https://x.com/Plinz/status/1879851336898146473"]
+    }
+  ]
+}

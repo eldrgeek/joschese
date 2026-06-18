@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Panel on computationalist functionalism at ASSC27",
+      "url": "https://x.com/Plinz/status/1808739915506798913",
+      "date": "2024-07-04",
+      "excerpt": "Just experienced a panel \"pro and contra computationalist functionalism\" at #ASSC27. The pro speakers offered only lukewarm support for pragmatic reasons, the counter positions did not make sound arguments either, instead claimed biology or analog systems being non computational.",
+      "handle": "Plinz",
+      "thread_id": "1808739915506798913"
+    },
+    {
+      "title": "Computationalist functionalism combines theory of representation and epistemology",
+      "url": "https://x.com/Plinz/status/1808739917054554185",
+      "date": "2024-07-04",
+      "excerpt": "Computationalist functionalism combines a theory of representation (all observables can be modeled using successive state transitions) with an epistemological stance (objects are constructed as models of observables).",
+      "handle": "Plinz",
+      "thread_id": "1808739915506798913"
+    },
+    {
+      "title": "Refuting computationalist functionalism may entail constructive math or physicalism wrong",
+      "url": "https://x.com/Plinz/status/1808739919269089341",
+      "date": "2024-07-04",
+      "excerpt": "Refuting computationalist functionalism may entail that constructive mathematics and/or physicalism are wrong.",
+      "handle": "Plinz",
+      "thread_id": "1808739915506798913"
+    },
+    {
+      "title": "Philosophers dismiss functionalism without recognizing Gödel's consequences",
+      "url": "https://x.com/Plinz/status/1849909066736275594",
+      "date": "2024-10-25",
+      "excerpt": "I am puzzled how casually many well known philosophers dismiss functionalism and computationalism, seemingly not recognizing that they are the direct consequence of Gödel's insight about the nature of representation and its consequences for metaphysics.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as colonizing pattern independent of particular circuit",
+      "url": "https://x.com/Plinz/status/1816002690436194322",
+      "date": "2024-07-24",
+      "excerpt": "Somewhat more weakly I hope that the following is true: I) Consciousness is a colonizing pattern that inscribes itself on its substrate, II) Consciousness is not bound to a particular circuit...",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness emergent over and independent of its substrate",
+      "url": "https://x.com/Plinz/status/1841762745060098528",
+      "date": "2024-10-03",
+      "excerpt": "Consciousness is a bit like money. It is a causal force on, emergent over and independent of its substrate.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "computationalist functionalism",
+      "definition": "Combines a theory of representation where all observables are modeled via successive state transitions, with an epistemological stance that objects are constructed as models of observables. It is treated as default in AI, cognitive science and physics but dismissed by many philosophers of mind.",
+      "provenance": ["https://x.com/Plinz/status/1808739917054554185", "https://x.com/Plinz/status/1808739915506798913"]
+    },
+    {
+      "title": "substrate",
+      "definition": "Physical medium on which consciousness or mind as software inscribes or colonizes itself as a self-organizing pattern; consciousness emerges over and is independent of any particular substrate or circuit.",
+      "provenance": ["https://x.com/Plinz/status/1816002690436194322", "https://x.com/Plinz/status/1841762745060098528"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "xposts": [
+    {
+      "title": "Spirits as self-organizing agents below entities",
+      "url": "https://x.com/Plinz/status/1708785451522523215",
+      "date": "2023-10-02",
+      "excerpt": "I think that spirits are a level down (entities can be payloads of spirits, i.e. the self organizing agents that entice networks of cells to compute them, thereby forming minds). If you go up, you find gods, i.e. entities that possess multiple minds.",
+      "handle": "Plinz",
+      "thread_id": "1708733111759176054"
+    },
+    {
+      "title": "Entities as software agents on organisms",
+      "url": "https://x.com/Plinz/status/1708733111759176054",
+      "date": "2023-10-02",
+      "excerpt": "I believe in entities, in the sense that I clearly observe my own organism to be possessed by an entity that calls itself Joscha Bach. It can be observed that Joscha Bach is pretending to himself that it's him who makes that observation.",
+      "handle": "Plinz",
+      "thread_id": "1708733111759176054"
+    },
+    {
+      "title": "Self-organizing software with intentional interfaces",
+      "url": "https://x.com/Plinz/status/1688322658088456193",
+      "date": "2023-08-06",
+      "excerpt": "Consider that most complex high level phenomena in organisms and across groups of organisms are controlled by self organizing software with intentional interfaces, but educated Westerners think that software cannot have intentions and agency",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Gods implemented as software agents like selves",
+      "url": "https://x.com/Plinz/status/1722029772522315876",
+      "date": "2023-11-07",
+      "excerpt": "Because gods can be implemented on brains in the same way as human personal selfs (both are software agents), they have just as much agency as personal selfs. They can even write books and run organizations.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Optimal merge of software agents into God and demons",
+      "url": "https://x.com/Plinz/status/1724221175553810730",
+      "date": "2023-11-14",
+      "excerpt": "After a certain level of maturity, the provably optimal merge algorithm for software agents should be obvious. We get a single God integrating all possible cooperative minds and ruling almost everything, and a bunch of uncooperative demons in a high entropy (hot) bubble (hell)",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "spirits",
+      "definition": "Self-organizing software agents that entice networks of cells to compute them, thereby forming minds; a level below entities, which can be their payloads.",
+      "provenance": ["https://x.com/Plinz/status/1708785451522523215"]
+    },
+    {
+      "title": "entities",
+      "definition": "Higher-level phenomena that possess organisms or minds, such as a personal self or gods that possess multiple minds; implemented via software agents.",
+      "provenance": ["https://x.com/Plinz/status/1708785451522523215", "https://x.com/Plinz/status/1708733111759176054"]
+    }
+  ]
+}

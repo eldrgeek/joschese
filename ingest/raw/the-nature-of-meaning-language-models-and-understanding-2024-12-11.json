@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Semantics extractable from statistical text models",
+      "url": "https://x.com/Plinz/status/1933410425699521006",
+      "date": "2025-06-13",
+      "excerpt": "I glimpsed during my work in Ian Witten‘s lab in the 1990ies that one can extract arbitrary semantics from pure statistical text models. I just never considered this to be very interesting, because I thought AGI would result from intelligent self improvement, not mere imitation.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "LLMs form integrated world models from data",
+      "url": "https://x.com/Plinz/status/1924248699653476432",
+      "date": "2025-05-18",
+      "excerpt": "Perception is not giving us access to the world, it constrains the space of possible worlds. Similarly, the data that an LLM is trained on constrains the space of possible universes. With enough data, LLMs form integrated world models.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Wittgenstein on grounding meaning in language vs mystics",
+      "url": "https://x.com/Plinz/status/1996791960129208639",
+      "date": "2025-12-05",
+      "excerpt": "I think they are actually opposites: young Wittgenstein grounds all meaning in language (what you cannot represent is meaningless), while the mystics point at the insufficiency of human language to ground and even address meaning. Both are correct.",
+      "handle": "Plinz",
+      "thread_id": "1996564234478760372"
+    },
+    {
+      "title": "General intelligence as making sense and modeling the world",
+      "url": "https://x.com/Plinz/status/1986621485851812326",
+      "date": "2025-11-07",
+      "excerpt": "On a deeper level, general intelligence is not best understood as economic value generation, but as something more foundational: the ability to make sense of the world and to model it, in the service of control.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Meaning not socially mediated but internally modeled",
+      "url": "https://x.com/Plinz/status/1987078566568468947",
+      "date": "2025-11-08",
+      "excerpt": "Why would meaning be socially mediated? Don't you realize that your interaction partners have to be modeled in your mind?",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Old Wittgenstein on language vs neural representational code",
+      "url": "https://x.com/Plinz/status/1996811562557001844",
+      "date": "2025-12-05",
+      "excerpt": "Old Wittgenstein despairs because he does not see how to ground what he takes to be language (chunks with systematic compositional grammar and not more than a handful of ordered features each) in the representational code spoken by neurons (the actual language of thought).",
+      "handle": "Plinz",
+      "thread_id": "1996564234478760372"
+    }
+  ],
+  "terms": [
+    {
+      "title": "semantics",
+      "definition": "Arbitrary semantics can be extracted from pure statistical text models, though this was seen as less interesting than self-improving AGI. Meaning is grounded internally via modeling, not primarily social mediation.",
+      "provenance": ["https://x.com/Plinz/status/1933410425699521006", "https://x.com/Plinz/status/1987078566568468947"]
+    },
+    {
+      "title": "world model",
+      "definition": "With enough data, LLMs form integrated world models that constrain possible universes like perception constrains possible worlds; these transfer across modalities and enable abstraction and agency.",
+      "provenance": ["https://x.com/Plinz/status/1924248699653476432"]
+    }
+  ]
+}

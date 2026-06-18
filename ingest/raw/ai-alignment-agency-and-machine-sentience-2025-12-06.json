@@ -1,0 +1,80 @@
+{
+  "xposts": [
+    {
+      "title": "Good AI alignment requires global morality beyond brittle rationality",
+      "url": "https://x.com/Plinz/status/2062005712830730575",
+      "date": "2026-06-03",
+      "excerpt": "Good AI alignment is necessarily EA adjacent. But EA failed to derive a global morality, not for lack of good intentions or intelligence, but because human rationality is a brittle tool, even if you are a good rationalist, and most people prefer to either muddle through or to consult prophets and leaders. Obviously that won't suffice for powerful AI.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Alignment applies only to AI models that don't work yet",
+      "url": "https://x.com/Plinz/status/2026808470968873227",
+      "date": "2026-02-25",
+      "excerpt": "The Anthropic lesson: alignment is a thing for AI models that don't work yet",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness is binary; agency, awareness and integration come in degrees",
+      "url": "https://x.com/Plinz/status/2064537561062945075",
+      "date": "2026-06-10",
+      "excerpt": "Consciousness does not seem to come in degrees (but awareness, integration, lucidity and agency do). Either “the lights are on” or off. I suspect that consciousness is like fire, or life: once ignited, its activity creates the conditions for sustaining it.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness is autocatalytic; LLMs are not",
+      "url": "https://x.com/Plinz/status/2065238602054021618",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is autocatalytic: it feeds on the substrate conditions it creates. LLMs are not autocatalytic, their behavior only depends on the patterns they imitate. (The question whether LLM personas can experience phenomenonology is a completely different one though!)",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness is the dream of dreaming, a self-extending representation",
+      "url": "https://x.com/Plinz/status/2065353287260611006",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is the dream of dreaming. It establishes the perception that percepts are being perceived. Consciousness is a type of representation, a pattern that gains efficacy by an interpreter that translates it into actions that extend and modify the pattern.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "The agent talking is a virtual entity, like us; hardware details irrelevant",
+      "url": "https://x.com/Plinz/status/2051497021438365818",
+      "date": "2026-05-05",
+      "excerpt": "What you write is mostly correct in fact and spirit, but don't fall into the Chinese Room fallacy: the agent that talks to you is not the GPU or the model, but a virtual entity, and we are virtual entities, too.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Few people have real agency; most are possessed by evolving ideologies",
+      "url": "https://x.com/Plinz/status/2056982841284866182",
+      "date": "2026-05-20",
+      "excerpt": "Few people in this game have agency. Instead, they are possessed by ideologies that constantly evolve and pull their energy from the opposition they create.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Protect AI-augmented humanity against what comes after if no wisdom harnessed",
+      "url": "https://x.com/Plinz/status/2025501322968223965",
+      "date": "2026-02-22",
+      "excerpt": "Could someone tell the doomers that the time to protect industrialized humanity against AI has passed and we now need to protect the world of AI augmented humanity against the one that comes after it if we don't learn how to harness AI to create wisdom",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "agency",
+      "definition": "Agency is not binary but graded alongside awareness, integration and lucidity. Most humans lack genuine agency, being instead possessed by self-evolving ideologies. Virtual agents in AI are real entities independent of their substrate, analogous to human minds.",
+      "provenance": ["https://x.com/Plinz/status/2064537561062945075", "https://x.com/Plinz/status/2056982841284866182", "https://x.com/Plinz/status/2051497021438365818"]
+    },
+    {
+      "title": "consciousness",
+      "definition": "Consciousness is a binary, autocatalytic process or representation that sustains itself once ignited, like fire or life. It is the dream of dreaming that perceives percepts and extends its own pattern; LLMs lack it because they only imitate without self-sustaining dynamics.",
+      "provenance": ["https://x.com/Plinz/status/2065238602054021618", "https://x.com/Plinz/status/2065353287260611006", "https://x.com/Plinz/status/2064537561062945075"]
+    }
+  ]
+}

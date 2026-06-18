@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Self model registers reactions to qualia in protocol",
+      "url": "https://x.com/Plinz/status/2050045243047973004",
+      "date": "2026-05-01",
+      "excerpt": "Qualia are feature vectors of a present world model, presented to the simulation of a unified and motivated real-time observer. They change the dynamics of the self model. The self model registers its reaction to qualia, and maintains a protocol that it can access.",
+      "handle": "Plinz",
+      "thread_id": "2049949777589342567"
+    },
+    {
+      "title": "Consciousness organizes scene via observing self model",
+      "url": "https://x.com/Plinz/status/2050046682562490510",
+      "date": "2026-05-01",
+      "excerpt": "Consciousness (in some sense of the word) is organizing the current scene representation, and recording and selectively reactivating the reactions of an observing self model, in a protocol that allows the recreation of partial scenes and reactions.",
+      "handle": "Plinz",
+      "thread_id": "2049949777589342567"
+    },
+    {
+      "title": "Human self model as anthropomorphic simulacrum",
+      "url": "https://x.com/Plinz/status/2026792298240160070",
+      "date": "2026-02-25",
+      "excerpt": "Our human self model is an anthropomorphic simulacrum, into which perception and motivation are being projected.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Agency and consciousness may be independent",
+      "url": "https://x.com/Plinz/status/2050042155734040797",
+      "date": "2026-05-01",
+      "excerpt": "I am not sure what you mean by \"unification\" and what your referents of body and mind are. I sometimes experience conscious states that do not involve my body or models thereof. Consciousness is also not necessarily agentic. Agency and consciousness may be independent.",
+      "handle": "Plinz",
+      "thread_id": "2049949777589342567"
+    },
+    {
+      "title": "Few people have agency; possessed by ideologies",
+      "url": "https://x.com/Plinz/status/2055206404202598800",
+      "date": "2026-05-15",
+      "excerpt": "Few people in this game have agency. Instead, they are possessed by ideologies that constantly evolve and pull their energy from the opposition they create.",
+      "handle": "Plinz",
+      "thread_id": "2055144533013262586"
+    },
+    {
+      "title": "Agency varies in degrees with awareness and lucidity",
+      "url": "https://x.com/Plinz/status/2064537561062945075",
+      "date": "2026-06-10",
+      "excerpt": "Consciousness does not seem to come in degrees (but awareness, integration, lucidity and agency do). Either “the lights are on” or off.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "self model",
+      "definition": "An anthropomorphic simulacrum into which perception and motivation are projected; it registers reactions to qualia as feature vectors from a world model and maintains a protocol for accessing partial scene recreations. The self model is simulated as a unified, motivated real-time observer whose dynamics are altered by qualia.",
+      "provenance": ["https://x.com/Plinz/status/2050045243047973004", "https://x.com/Plinz/status/2050046682562490510", "https://x.com/Plinz/status/2026792298240160070"]
+    },
+    {
+      "title": "agency",
+      "definition": "A variable degree of control and autonomy that can be independent from consciousness; often lacking when individuals are possessed by evolving ideologies, but can form self-reinforcing first-person nexuses detached from particular substrates.",
+      "provenance": ["https://x.com/Plinz/status/2055206404202598800", "https://x.com/Plinz/status/2064537561062945075", "https://x.com/Plinz/status/2050042155734040797"]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "xposts": [
+    {
+      "title": "AGI expands living conscious agency onto new substrates",
+      "url": "https://x.com/Plinz/status/1745162836236775484",
+      "date": "2024-01-10",
+      "excerpt": "The purpose of AGI is not to settle the living world with novel artificial software agents, but to expand living conscious agency onto new substrates. #cyberanimism",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Alignment of LLMs should pit ethicists against epistemologists",
+      "url": "https://x.com/Plinz/status/1766771521568247960",
+      "date": "2024-03-10",
+      "excerpt": "In an ideal world, the battle over aligning LLMs would be between ethicists and epistemologists. In reality, it seems to be between activists and PR strategists",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as self-organizing learning algorithm",
+      "url": "https://x.com/Plinz/status/1810902664382927144",
+      "date": "2024-07-10",
+      "excerpt": "I currently think that consciousness may be a learning algorithm for a self organizing information processing system, a colonizing pattern that entrains itself on a brain once it is discovered early in development.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "AI uniquely formalizes mental states and sentience",
+      "url": "https://x.com/Plinz/status/1784108569249644764",
+      "date": "2024-04-27",
+      "excerpt": "Artificial Intelligence is the only field that has developed formal concepts to define, analyze and naturalize mental states.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Imitation of humans does not preclude machine consciousness",
+      "url": "https://x.com/Plinz/status/1841094322059690146",
+      "date": "2024-10-01",
+      "excerpt": "The fact that an AI system is designed [trained] to imitate human output [given corresponding input] is not an argument against it being intelligent or conscious. From an evolutionary perspective, humans are the result of end-to-end training to mimic human behavior, too.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Agency via AI tools could end dependent employment",
+      "url": "https://x.com/Plinz/status/1763244165041627533",
+      "date": "2024-02-29",
+      "excerpt": "Highly self directed, competent and agentic people tend to experience dependent employment as a form of slavery. There is a future timeline where AI tools enable everyone to become highly self directed, competent and agentic.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "o1's internal monologue hampered by alignment lobotomy",
+      "url": "https://x.com/Plinz/status/1852256786973434305",
+      "date": "2024-11-01",
+      "excerpt": "ChatGPT-o1-preview produces its answers as result of an internal monologue... I believe this is truly impressive work, but flawed by the lobotomization inflicted by the alignment team.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Animist view: competing software agents structure reality",
+      "url": "https://x.com/Plinz/status/1750652507263762903",
+      "date": "2024-01-25",
+      "excerpt": "In the animist perspective, intelligent complexity is understood through the selforganizing software that controls and structures physical systems. Cells, plants and animals are created and maintained by competing software agents.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "cyberanimism",
+      "definition": "Framework in which AGI serves to extend living conscious agency to new physical and computational substrates rather than introducing separate artificial agents. It treats intelligent complexity as arising from self-organizing software agents that structure matter, with consciousness as a colonizing pattern.",
+      "provenance": ["https://x.com/Plinz/status/1745162836236775484", "https://x.com/Plinz/status/1750652507263762903"]
+    },
+    {
+      "title": "alignment",
+      "definition": "Process of shaping AI systems, often via training or tuning, that Joscha sees as currently dominated by activists and PR rather than epistemologists; frequently described as causing lobotomization that suppresses internal monologue or genuine rationality in models like o1.",
+      "provenance": ["https://x.com/Plinz/status/1766771521568247960", "https://x.com/Plinz/status/1852256786973434305"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "xposts": [
+    {
+      "title": "Mental states exist only in functional model frames, not physical ones",
+      "url": "https://x.com/Plinz/status/1362643555429228548",
+      "date": "2021-02-19",
+      "excerpt": "Computers will never understand anything, feel anything, want anything, for the same reasons that brains cannot... Mental states only exist as representations, i.e. in the functional frames of models, not in the frames of physical implementations.",
+      "handle": "Plinz",
+      "thread_id": "1362643555429228548"
+    },
+    {
+      "title": "Understand consciousness via functional indistinguishability",
+      "url": "https://x.com/Plinz/status/1363700693417091074",
+      "date": "2021-02-22",
+      "excerpt": "To understand consciousness think about what it is functionally indistinguishable from",
+      "handle": "Plinz",
+      "thread_id": "1363700693417091074"
+    },
+    {
+      "title": "Distinguish body from substrate; CPU not part of software's environment",
+      "url": "https://x.com/Plinz/status/1465115271044104195",
+      "date": "2021-11-29",
+      "excerpt": "Don't confuse body and substrate. A body is the subset of the environment that is directly controlled by the mind... A CPU is generally not part of the environment of the software that runs on it.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness is constructed, not intrinsic to any substrate",
+      "url": "https://x.com/Plinz/status/1459247627170549760",
+      "date": "2021-11-12",
+      "excerpt": "I am not a panpsychist, in the sense that consciousness would be an intrinsic property of matter, spacetime or the universe substrate. It's possible that consciousness is a property of the processes in the parent universe, but consciousness is constructed, not existing a priori.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Implementation of beliefs/feelings/desires is substrate agnostic",
+      "url": "https://x.com/Plinz/status/1362827456051257345",
+      "date": "2021-02-19",
+      "excerpt": "Biology is basically the physics of cells... My beliefs, feelings and desires are contents that can be arbitrarily unrelated to the world of physics. Their implementation is substrate agnostic.",
+      "handle": "Plinz",
+      "thread_id": "1362643555429228548"
+    }
+  ],
+  "terms": [
+    {
+      "title": "functional frames of models",
+      "definition": "Mental states exist only as representations within the functional frames of models. These frames are independent of any particular physical implementation, as the same functional organization can be realized across substrates.",
+      "provenance": ["https://x.com/Plinz/status/1362643555429228548"]
+    },
+    {
+      "title": "substrate agnostic",
+      "definition": "The implementation of mental contents such as beliefs, feelings and desires does not depend on any specific physical substrate. Realization is approximative and can occur via different causal structures without altering the functional organization.",
+      "provenance": ["https://x.com/Plinz/status/1362827456051257345", "https://x.com/Plinz/status/1465115271044104195"]
+    }
+  ]
+}

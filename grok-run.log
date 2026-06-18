@@ -1,0 +1,5 @@
+I'll start by reading the build spec and surveying what's already in `~/Projects/Joscha`.
+Starting ingestion and reading the Levinese template files I'll need for scaffolding.
+Scaffolding the site from Levinese while ingestion runs.
+Ingestion is producing content — I'll Joscha-ize the scaffold and create the guide config while it finishes.
+Ingestion is nearly done (44/50 searches). I'll install dependencies and run an initial build to surface any issues early.

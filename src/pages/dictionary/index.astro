@@ -1,0 +1,316 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const rawTerms = await getCollection('terms');
+const rawPapers = await getCollection('papers');
+
+// Build paper slug → title map (slug = id without .json)
+const paperMap = new Map<string, string>();
+for (const p of rawPapers) {
+  const slug = p.id.replace(/\.json$/, '');
+  paperMap.set(slug, p.data.title);
+}
+
+// DOI slug pattern: starts with "10-" followed by digits, then more segments
+const doiSlugRe = /^10-\d{4,}-.+/;
+
+function escAttr(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+}
+
+// DOI in free text: 10.XXXX/... — link BOTH the paper title and the DOI itself.
+// The title cross-links to the corpus entry (Wikipedia-style, with scroll+highlight);
+// the DOI is rendered as a separate clickable link too, so both are navigable.
+function linkifySourceDois(source: string): string {
+  // Match DOIs in source text, stop at whitespace, comma, semicolon, close-paren, close-bracket
+  return source.replace(/10\.\d{4,}\/[^\s,;)\]]+/g, (doi) => {
+    const doiClean = doi.replace(/[.,;)\]]+$/, ''); // strip trailing punctuation
+    const trailingPunct = doi.slice(doiClean.length);
+    const slug = doiClean.replace(/\./g, '-').replace(/\//g, '-');
+    const title = paperMap.get(slug);
+    if (title) {
+      const shortTitle = title.length > 60 ? title.slice(0, 57) + '…' : title;
+      const titleLink = `<a href="/corpus#${slug}" class="paper-link" title="${escAttr(title)}">${escAttr(shortTitle)}</a>`;
+      const doiLink = `<a href="/corpus#${slug}" class="paper-doi-link" title="${escAttr(doiClean)}">${escAttr(doiClean)}</a>`;
+      return `${titleLink} <span class="paper-doi">(${doiLink})</span>${trailingPunct}`;
+    }
+    return doi;
+  });
+}
+
+const terms = rawTerms.map(e => ({
+  slug: e.slug,
+  letter: e.data.letter,
+  title: e.data.title,
+  subtitle: e.data.subtitle,
+  authored_by: e.data.authored_by,
+  authored_by_note: e.data.authored_by_note,
+  source: e.data.source,
+  sourceLinkified: linkifySourceDois(e.data.source),
+  provenance: e.data.provenance,
+  related: e.data.related,
+  tags: e.data.tags,
+  is_new: e.data.is_new,
+  contested: e.data.contested,
+  contested_note: e.data.contested_note,
+  marginalia: e.data.marginalia,
+  definition: e.body,
+}));
+
+const termsByLetter = terms.reduce((acc, term) => {
+  const l = term.letter || term.title[0].toUpperCase();
+  if (!acc[l]) acc[l] = [];
+  acc[l].push(term);
+  return acc;
+}, {} as Record<string, typeof terms>);
+
+const letters = Object.keys(termsByLetter).sort();
+const stripHtml = (html: string) => html.replace(/<[^>]*>/g, ' ');
+---
+<Base title="Dictionary" description="A working dictionary of Joschese — the conceptual vocabulary developed by Joscha Bach across X threads, talks, and podcasts on consciousness and computation.">
+
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 pt-12 pb-4">
+    <!-- Header -->
+    <div class="mb-8">
+      <p class="text-sm font-medium text-teal uppercase tracking-widest mb-3">Dictionary</p>
+      <h1 class="font-serif text-3xl sm:text-4xl font-medium text-ink mb-4">Joschese</h1>
+      <p class="text-muted max-w-2xl leading-relaxed">
+        {terms.length} terms drawn from Joscha Bach's X threads and talks. Definitions grounded in his public corpus, with provenance links to source posts.
+      </p>
+      <div class="mt-4 text-xs text-muted flex items-center gap-2">
+        <span class="inline-flex items-center gap-1 bg-amber-light text-amber px-2 py-0.5 rounded-full text-xs font-medium">new</span>
+        = new term from corpus gap analysis, not in prior glossary sessions
+      </div>
+    </div>
+  </div>
+
+  <!-- Sticky search + letter rail -->
+  <div id="dict-nav" class="sticky top-14 z-40 bg-parchment/95 backdrop-blur-sm border-b border-border">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-4">
+      <!-- Search -->
+      <div class="flex items-center gap-3 flex-1 min-w-0">
+        <div class="relative flex-1 max-w-xs">
+          <svg class="absolute left-2.5 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-muted pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          <input id="dict-search" type="search" placeholder="Filter terms…"
+            class="w-full pl-8 pr-8 py-1.5 text-sm border border-border rounded-md bg-white text-ink placeholder:text-muted/60 focus:outline-none focus:border-teal/50 focus:ring-1 focus:ring-teal/20" />
+          <button id="dict-clear" class="absolute right-2 top-1/2 -translate-y-1/2 text-muted hover:text-ink hidden text-xs leading-none" aria-label="Clear search">✕</button>
+        </div>
+        <span id="dict-count" class="text-xs text-muted whitespace-nowrap tabular-nums">Showing {terms.length} of {terms.length}</span>
+      </div>
+      <!-- Letter rail -->
+      <div class="flex flex-wrap gap-1">
+        {letters.map(letter => (
+          <a href={`#letter-${letter}`} data-letter={letter}
+            class="dict-letter w-7 h-7 flex items-center justify-center rounded text-xs font-medium text-muted border border-transparent hover:bg-white hover:border-border hover:text-ink transition-colors"
+          >{letter}</a>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- Terms -->
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 mt-6">
+    {letters.map(letter => (
+      <div id={`letter-${letter}`} class="dict-section mb-14 scroll-mt-28" data-letter={letter}>
+        <div class="flex items-center gap-4 mb-8">
+          <span class="font-serif text-5xl font-medium text-teal/30">{letter}</span>
+          <div class="h-px flex-1 bg-border" />
+        </div>
+
+        <div class="space-y-12">
+          {termsByLetter[letter].map(term => (
+            <article
+              id={`term-${term.slug}`}
+              class="dict-entry scroll-mt-28"
+              data-search={`${term.title} ${term.subtitle ?? ''} ${stripHtml(term.definition)} ${term.tags.join(' ')}`.toLowerCase()}
+            >
+              <!-- Term header -->
+              <div class="flex items-start gap-3 mb-3">
+                <div class="flex-1">
+                  <div class="flex flex-wrap items-center gap-2 mb-1">
+                    <h2 class="font-serif text-2xl font-medium text-ink">{term.title}</h2>
+                    {term.is_new && (
+                      <span class="text-xs bg-amber-light text-amber px-2 py-0.5 rounded-full font-medium">new</span>
+                    )}
+                  </div>
+                  {term.subtitle && (
+                    <p class="font-serif italic text-muted text-base">{term.subtitle}</p>
+                  )}
+                </div>
+              </div>
+
+              <!-- Definition -->
+              <div class="bg-white border border-border rounded-lg p-6 mb-4">
+                <p class="leading-relaxed text-ink" set:html={term.definition} />
+              </div>
+
+              <!-- Marginalia (if any) -->
+              {term.marginalia && term.marginalia.length > 0 && (
+                <div class="space-y-3 mb-4 pl-4 border-l-2 border-teal/20">
+                  {term.marginalia.map(m => (
+                    <div class="bg-teal-light/40 rounded-r-lg p-4">
+                      <p class="text-xs font-medium text-teal mb-1.5">{m.author}</p>
+                      <p class="text-sm text-ink/80 leading-relaxed italic" set:html={m.text} />
+                    </div>
+                  ))}
+                </div>
+              )}
+
+              <!-- Metadata row -->
+              <div class="grid sm:grid-cols-3 gap-4 text-xs">
+                <div>
+                  <p class="text-muted font-medium uppercase tracking-wide mb-1">Authored by</p>
+                  <p class="text-ink">{term.authored_by}</p>
+                  {term.authored_by_note && (
+                    <p class="text-muted mt-1 italic">{term.authored_by_note}</p>
+                  )}
+                </div>
+                <div class="sm:col-span-2">
+                  <p class="text-muted font-medium uppercase tracking-wide mb-1">Source</p>
+                  <p class="text-ink leading-relaxed" set:html={term.sourceLinkified} />
+                  {/* Provenance DOI links — show papers that match */}
+                  {term.provenance.filter(p => doiSlugRe.test(p) && paperMap.has(p)).length > 0 && (
+                    <p class="mt-1.5 text-xs text-muted">
+                      <span class="font-medium uppercase tracking-wide">Paper{term.provenance.filter(p => doiSlugRe.test(p) && paperMap.has(p)).length > 1 ? 's' : ''}:</span>{' '}
+                      {term.provenance
+                        .filter(p => doiSlugRe.test(p) && paperMap.has(p))
+                        .map((p, i, arr) => (
+                          <Fragment>
+                            <a href={`/corpus#${p}`} class="paper-link">{paperMap.get(p)}</a>{' '}
+                            <span class="paper-doi">(<a href={`/corpus#${p}`} class="paper-doi-link">DOI</a>)</span>
+                            {i < arr.length - 1 ? '; ' : ''}
+                          </Fragment>
+                        ))
+                      }
+                    </p>
+                  )}
+                </div>
+              </div>
+
+              <!-- Tags + related -->
+              <div class="mt-4 flex flex-wrap gap-2">
+                {term.tags.map(tag => (
+                  <span class="text-xs bg-surface text-muted px-2.5 py-1 rounded-full border border-border">{tag}</span>
+                ))}
+                {term.related.length > 0 && (
+                  <span class="text-xs text-muted self-center ml-1">→ see also:</span>
+                )}
+                {term.related.slice(0, 3).map(slug => {
+                  const relatedTerm = terms.find(t => t.slug === slug);
+                  return relatedTerm ? (
+                    <a
+                      href={`#term-${slug}`}
+                      class="text-xs text-teal hover:text-teal-mid underline underline-offset-2 decoration-teal/30"
+                    >
+                      {relatedTerm.title}
+                    </a>
+                  ) : null;
+                })}
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <!-- No-results message -->
+  <div id="dict-empty" class="hidden max-w-5xl mx-auto px-4 sm:px-6 py-16 text-center">
+    <p class="text-muted">No terms match your search.</p>
+  </div>
+
+  <!-- Footer note -->
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-10 border-t border-border mt-6">
+    <p class="text-sm text-muted">
+      This dictionary v0 covers {terms.length} terms. The full corpus contains ~58 prior-art terms plus new entries from gap analysis. Additional terms (TAME, Xenobots, Bioelectric Code, Gap Junctions, and more) will be added in v1.
+    </p>
+  </div>
+
+</Base>
+
+<script>
+  const input = document.getElementById('dict-search') as HTMLInputElement;
+  const clearBtn = document.getElementById('dict-clear') as HTMLButtonElement;
+  const countEl = document.getElementById('dict-count') as HTMLElement;
+  const emptyEl = document.getElementById('dict-empty') as HTMLElement;
+  const entries = document.querySelectorAll<HTMLElement>('.dict-entry');
+  const sections = document.querySelectorAll<HTMLElement>('.dict-section');
+  const letterBtns = document.querySelectorAll<HTMLAnchorElement>('.dict-letter');
+  const total = entries.length;
+
+  function applyFilter(raw: string) {
+    const q = raw.trim().toLowerCase();
+    let shown = 0;
+
+    entries.forEach(el => {
+      const match = !q || (el.dataset.search ?? '').includes(q);
+      el.hidden = !match;
+      if (match) shown++;
+    });
+
+    sections.forEach(sec => {
+      const hasVisible = [...sec.querySelectorAll<HTMLElement>('.dict-entry')].some(e => !e.hidden);
+      sec.hidden = !hasVisible;
+      const btn = document.querySelector<HTMLElement>(`.dict-letter[data-letter="${sec.dataset.letter}"]`);
+      if (btn) btn.style.opacity = hasVisible ? '' : '0.3';
+    });
+
+    countEl.textContent = `Showing ${shown} of ${total}`;
+    clearBtn.classList.toggle('hidden', !q);
+    emptyEl.classList.toggle('hidden', shown > 0);
+  }
+
+  input.addEventListener('input', () => applyFilter(input.value));
+  clearBtn.addEventListener('click', () => { input.value = ''; applyFilter(''); input.focus(); });
+
+  // Active letter highlight on scroll
+  const dictNav = document.getElementById('dict-nav') as HTMLElement;
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const letter = (entry.target as HTMLElement).dataset.letter;
+      const btn = document.querySelector<HTMLElement>(`.dict-letter[data-letter="${letter}"]`);
+      if (!btn) return;
+      if (entry.isIntersecting) {
+        btn.classList.add('bg-teal/10', 'text-teal', 'border-teal/30');
+      } else {
+        btn.classList.remove('bg-teal/10', 'text-teal', 'border-teal/30');
+      }
+    });
+  }, {
+    rootMargin: `-${(dictNav.offsetHeight + 56)}px 0px -55% 0px`,
+  });
+
+  sections.forEach(s => observer.observe(s));
+</script>
+
+<style>
+  /* Paper links — subtle, distinct from related-term links */
+  .paper-link {
+    color: var(--color-teal, #0c6b5a);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: color-mix(in srgb, currentColor 30%, transparent);
+    font-size: inherit;
+    transition: color 0.15s;
+  }
+  .paper-link:hover {
+    color: var(--color-teal-mid, #0a5a4a);
+    text-decoration-color: color-mix(in srgb, currentColor 60%, transparent);
+  }
+  /* DOI link — smaller, muted, monospace; distinct from the title link but still clickable. */
+  .paper-doi {
+    font-size: 0.85em;
+    color: var(--color-muted, #6b6878);
+  }
+  .paper-doi-link {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    color: var(--color-teal, #0c6b5a);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: color-mix(in srgb, currentColor 30%, transparent);
+    word-break: break-all;
+  }
+  .paper-doi-link:hover { color: var(--color-teal-mid, #0a5a4a); }
+</style>

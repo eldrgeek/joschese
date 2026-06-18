@@ -1,0 +1,9 @@
+{
+  "title": "LLMs prioritize local coherence over first principles",
+  "url": "https://x.com/Plinz/status/1610933335353880577",
+  "date": "2023-01-05",
+  "excerpt": "When a language model (like GPT-3 or ChatGPT) makes a mistake, its subsequent generations may follow the original assumption into madness, because coherence within the local context is still more important than global coherence/first principles reasoning.",
+  "source_host": "x.com",
+  "handle": "Plinz",
+  "thread_id": null
+}

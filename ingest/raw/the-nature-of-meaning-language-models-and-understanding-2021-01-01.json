@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Mental states exist only in model frames, not physical ones",
+      "url": "https://x.com/Plinz/status/1362643555429228548",
+      "date": "2021-02-19",
+      "excerpt": "Computers will never understand anything, feel anything, want anything, for the same reasons that brains cannot understand, feel and desire. Mental states only exist as representations, i.e. in the functional frames of models, not in the frames of physical implementations.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Understanding requires linking to a universal reality construct",
+      "url": "https://x.com/Plinz/status/1472743667387355136",
+      "date": "2021-12-20",
+      "excerpt": "I think that we form a “universal reality construct”, which is a unified dynamic recurrent deep model capable of predicting/tracking sensory data in real time. ‘Understanding’ requires establishing the relationships of a concept, idea or percept to the universal reality construct",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Nothing has meaning outside the model of an observer",
+      "url": "https://x.com/Plinz/status/1464001071357915159",
+      "date": "2021-11-25",
+      "excerpt": "Nothing has meaning outside the model of an observer. Once you have an observer, you have an interface.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Symbols, concepts and objects: distinctions for meaning",
+      "url": "https://x.com/Plinz/status/1417717619096920067",
+      "date": "2021-07-21",
+      "excerpt": "Useful observation to distinguish between symbols, concepts and objects: symbols are tangible references, concepts are being referred to by symbols or other concepts but are intangible and static (they don't have state), while objects are stateful and referred to by concepts",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Formal definition needed for 'understanding' in AI",
+      "url": "https://x.com/Plinz/status/1472692494643073024",
+      "date": "2021-12-19",
+      "excerpt": "Understanding should be fomally defined if statements like “$AISolution does not understand” are to mean anything interesting. There are multiple approaches to doing that, either via performance or from first principles",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Brain implements non-contradictory language for knowing",
+      "url": "https://x.com/Plinz/status/1388243767082110976",
+      "date": "2021-04-30",
+      "excerpt": "To know something, it has to be represented in a language that is not self contradictory. Our brain implements such a language, yet surprisingly, it is not only unknown, but very little effort is directed on studying it in the context if cognitive science.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "understanding",
+      "definition": "Understanding requires establishing the relationships of a concept, idea or percept to a universal reality construct: a unified dynamic recurrent deep model capable of predicting/tracking sensory data in real time. It can be approached via performance metrics or first principles, and statements denying understanding in AI lack force without such formalization.",
+      "provenance": ["https://x.com/Plinz/status/1472743667387355136", "https://x.com/Plinz/status/1472692494643073024"]
+    },
+    {
+      "title": "meaning",
+      "definition": "Nothing has meaning outside the model of an observer. Once an observer exists, an interface arises; mental states and representations gain significance only within functional frames of models, not physical implementations.",
+      "provenance": ["https://x.com/Plinz/status/1464001071357915159", "https://x.com/Plinz/status/1362643555429228548"]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "xposts": [
+    {
+      "title": "Church-Turing implies substrate-independent intelligence",
+      "url": "https://x.com/Plinz/status/1650580531531358208",
+      "date": "2023-04-24",
+      "excerpt": "Church Turing thesis implies that intelligence is substrate independent. All known general intelligence is biological. Biological substrates are much slower, less deterministic and less scalable than artificial ones.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Idealism formally equivalent to functionalism",
+      "url": "https://x.com/Plinz/status/1670582222758502401",
+      "date": "2023-06-19",
+      "excerpt": "I think there are several ways of building a complete idealism ... but they turn out to be formally equivalent to simulation theories or functionalism.",
+      "handle": "Plinz",
+      "thread_id": "1670524532392689665"
+    },
+    {
+      "title": "Computationalism as completionist philosophical system",
+      "url": "https://x.com/Plinz/status/1730100395836596627",
+      "date": "2023-11-30",
+      "excerpt": "Computationalism is a completionist philosophical system, with easy to climb foothills and an inevitable and still unconquered peak.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Computers create causally closed worlds",
+      "url": "https://x.com/Plinz/status/1682732582994149377",
+      "date": "2023-07-22",
+      "excerpt": "A computer is a causal insulator. Within a computer, we can create a causally closed world that functions independently from the dynamics of the physical universe",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Computationalism leaves no gaps",
+      "url": "https://x.com/Plinz/status/1730115411914682863",
+      "date": "2023-11-30",
+      "excerpt": "Computationalism entails some insights/conjectures that let it appear to be the only working system ... Computationalism leaves no gaps, and explains why alternatives do.",
+      "handle": "Plinz",
+      "thread_id": "1730100395836596627"
+    }
+  ],
+  "terms": [
+    {
+      "title": "computationalism",
+      "definition": "A completionist philosophical system that explains consciousness and mind via formal computation, leaving no explanatory gaps. Its formalizations of alternative views like idealism converge on functional or simulation equivalents.",
+      "provenance": ["https://x.com/Plinz/status/1730100395836596627", "https://x.com/Plinz/status/1670582222758502401"]
+    },
+    {
+      "title": "substrate independence",
+      "definition": "Intelligence and mind arise from functional organization independent of physical medium, per Church-Turing thesis. Biological brains are merely one slower, less scalable implementation.",
+      "provenance": ["https://x.com/Plinz/status/1650580531531358208"]
+    }
+  ]
+}

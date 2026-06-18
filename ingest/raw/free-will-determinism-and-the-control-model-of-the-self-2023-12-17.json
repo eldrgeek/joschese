@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Selfs are control models of discoverable agents",
+      "url": "https://x.com/Plinz/status/1832375215281861064",
+      "date": "2024-09-07",
+      "excerpt": "Agents are future controllers. Selfs are control models of agents intelligent enough to discover themselves. Intelligence is modeling ability. Gods are selfs that span multiple agents.",
+      "handle": "Plinz",
+      "thread_id": "1832339389118333003"
+    },
+    {
+      "title": "Self model rewrite and memory access",
+      "url": "https://x.com/Plinz/status/1823225410123088370",
+      "date": "2024-08-13",
+      "excerpt": "In most cases, the self model gets rewritten without the self being allowed and capable to watch... When you re-experience the old behavior, you can notice changes in the source code.",
+      "handle": "Plinz",
+      "thread_id": "1823220251305353465"
+    },
+    {
+      "title": "Childhood amnesia via self model shift",
+      "url": "https://x.com/Plinz/status/1855512194676605170",
+      "date": "2024-11-10",
+      "excerpt": "Toddlers can remember what happened months before. I suspect that childhood amnesia is due to a fundamental shift in the personal self model, which makes previous memories inaccessible.",
+      "handle": "Plinz",
+      "thread_id": "1855383987100995885"
+    },
+    {
+      "title": "Consciousness requires self modeling",
+      "url": "https://x.com/Plinz/status/1810902678849081494",
+      "date": "2024-07-10",
+      "excerpt": "Consciousness is necessary but not sufficient for developing self modeling and subjective experience. (There will be subjects that are conscious but have no self model, but there will be no subjects that have a self model and are not conscious.)",
+      "handle": "Plinz",
+      "thread_id": "1810902664382927144"
+    },
+    {
+      "title": "Determinism and understanding one's name",
+      "url": "https://x.com/Plinz/status/1818785641020506452",
+      "date": "2024-07-31",
+      "excerpt": "When something understands its own name, it’s hard to escape the pull of its determinism",
+      "handle": "Plinz",
+      "thread_id": "1818755976029507936"
+    },
+    {
+      "title": "Agency as control of future states",
+      "url": "https://x.com/Plinz/status/1832343382581981446",
+      "date": "2024-09-07",
+      "excerpt": "...define agency as control of future states.",
+      "handle": "Plinz",
+      "thread_id": "1832339389118333003"
+    }
+  ],
+  "terms": [
+    {
+      "title": "self model",
+      "definition": "A control model of an agent intelligent enough to discover itself; the self model can be rewritten without the self watching, shifting access to prior memories and behavior patterns.",
+      "provenance": ["https://x.com/Plinz/status/1832375215281861064", "https://x.com/Plinz/status/1823225410123088370"]
+    },
+    {
+      "title": "agency",
+      "definition": "Control of future states; agents are future controllers, with selfs as their discoverable control models.",
+      "provenance": ["https://x.com/Plinz/status/1832343382581981446", "https://x.com/Plinz/status/1832375215281861064"]
+    }
+  ]
+}

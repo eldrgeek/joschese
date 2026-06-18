@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Wolfram: universe is cellular automaton in Ruliad",
+      "url": "https://x.com/Plinz/status/1690285344812634112",
+      "date": "2023-08-12",
+      "excerpt": "At the beginning of his career... The second thing he discovered is that the universe is a cellular automaton. ... the universe itself can be explained as an infinitesimal strand in the branching multiverse... He calls this limit of computational possibilities “the Ruliad”",
+      "handle": "Plinz",
+      "thread_id": "1690253634574094336"
+    },
+    {
+      "title": "Universe as non-deterministic Turing machine",
+      "url": "https://x.com/Plinz/status/1731504673956491334",
+      "date": "2023-12-04",
+      "excerpt": "In the past I thought the universe must be deterministic because it’s information preserving and true randomness is intractable. Now I think of the universe as a non deterministic Turing machine, and information preservation is a statistically emergent phenomenon.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Particle universe as error-correcting code on quantum substrate",
+      "url": "https://x.com/Plinz/status/1730991463411180012",
+      "date": "2023-12-02",
+      "excerpt": "The particle universe is a naturally occurring error correcting code on the quantum universe. Particles are stable enough to carry information across the junctures in the branching substrate universe, which makes control structures (atoms, cells, minds) possible.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Computer as causal insulator from physical universe",
+      "url": "https://x.com/Plinz/status/1682732582994149377",
+      "date": "2023-07-22",
+      "excerpt": "A computer is a causal insulator. Within a computer, we can create a causally closed world that functions independently from the dynamics of the physical universe",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Physics as short algebraic descriptions of systems",
+      "url": "https://x.com/Plinz/status/1699395779327295532",
+      "date": "2023-09-06",
+      "excerpt": "Physics may be better understood not as modeling physical reality, but as the practice of describing arbitrary systems by short algebraic equations (some not even computable).",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Globally deterministic but observer-relative NDTM",
+      "url": "https://x.com/Plinz/status/1731617608271532464",
+      "date": "2023-12-04",
+      "excerpt": "Yes, globally, the ndtm is a deterministic automaton, but if you are being computed by it, your own reality will comprise of a (usually relatively shrinking) fraction of an unobservable larger state",
+      "handle": "Plinz",
+      "thread_id": "1731504673956491334"
+    }
+  ],
+  "terms": [
+    {
+      "title": "Ruliad",
+      "definition": "The limit of all possible computational processes across every possible rule set; an encompassing multiverse structure in which our universe is merely one infinitesimal strand, as described in Wolfram's framework.",
+      "provenance": ["https://x.com/Plinz/status/1690285344812634112"]
+    },
+    {
+      "title": "non deterministic Turing machine (NDTM)",
+      "definition": "Model of the universe in which global determinism coexists with observer-relative branching; information preservation emerges statistically rather than being strictly enforced at every step.",
+      "provenance": ["https://x.com/Plinz/status/1731504673956491334", "https://x.com/Plinz/status/1731617608271532464"]
+    }
+  ]
+}

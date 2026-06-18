@@ -1,0 +1,87 @@
+{
+  "xposts": [
+    {
+      "title": "Life is the creation of meaning",
+      "url": "https://x.com/Plinz/status/1862345636726939752",
+      "date": "2024-11-29",
+      "excerpt": "Life is the creation of meaning.",
+      "handle": "Plinz",
+      "thread_id": "1862345636726939752"
+    },
+    {
+      "title": "Life: self-organizing processes with intentional goals",
+      "url": "https://x.com/Plinz/status/1862414887408083341",
+      "date": "2024-11-29",
+      "excerpt": "Life is a particular class of self organizing and self perpetuating processes that lead to complexity through intentional behavior (directed by informationally represented goals). This is the intended definition of meaning here.",
+      "handle": "Plinz",
+      "thread_id": "1862345636726939752"
+    },
+    {
+      "title": "Multiple senses of 'meaning'",
+      "url": "https://x.com/Plinz/status/1862397967061459362",
+      "date": "2024-11-29",
+      "excerpt": "Depending on the context, meaning means eg. the assignment of a variable, the relationship between a pattern and changes in other patterns, the relationship of a thing to our model of everything (the universe), the relationship of an event to intentions or the task of an agent.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Chomsky disproven by statistical language models",
+      "url": "https://x.com/Plinz/status/1854372590573482410",
+      "date": "2024-11-07",
+      "excerpt": "Chomsky's approach to linguistics has effectively been disproven by AI: 1. general learning is enough for language (no innate language skill necessary), 2. language is fundamentally scruffy (not neat), 3. language is enough to learn language (no grounding).",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Language has scruffy heterogeneous meanings",
+      "url": "https://x.com/Plinz/status/1853915467267846610",
+      "date": "2024-11-05",
+      "excerpt": "It's rare that a beautiful scientific paradigm fails as hard as Chomskyian linguistics, as evidenced in how statistical models superseded the work of computer linguists. Language has a neat skeleton but a scruffy body, grounded in a heterogeneous web of meanings.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Computationalism: semantics reducible to syntax",
+      "url": "https://x.com/Plinz/status/1761934049499599214",
+      "date": "2024-02-26",
+      "excerpt": "At the core of computationalism lies the idea that all semantics must be fully reducible to syntactic operations.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "AI develops formal concepts for mental states",
+      "url": "https://x.com/Plinz/status/1784108569249644764",
+      "date": "2024-04-27",
+      "excerpt": "Artificial Intelligence is the only field that has developed formal concepts to define, analyze and naturalize mental states.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Ancient Greek layers of representation and understanding",
+      "url": "https://x.com/Plinz/status/1802985693586833515",
+      "date": "2024-06-18",
+      "excerpt": "Ancient Greek thinkers developed theories of representation that distinguish between sensory images... abstract representation... reasoning. Aristotle's analysis of mental functionality did not just found psychology but artificial intelligence.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "meaning",
+      "definition": "Life is the creation of meaning via self-organizing processes with informationally represented goals and intentional behavior. Different contexts yield senses such as variable assignment, pattern relationships, or alignment with an agent's model of the universe and intentions.",
+      "provenance": [
+        "https://x.com/Plinz/status/1862345636726939752",
+        "https://x.com/Plinz/status/1862414887408083341",
+        "https://x.com/Plinz/status/1862397967061459362"
+      ]
+    },
+    {
+      "title": "semantics",
+      "definition": "All semantics must be fully reducible to syntactic operations under computationalism; language models reveal semantics as grounded in a heterogeneous, scruffy web rather than neat innate structures.",
+      "provenance": [
+        "https://x.com/Plinz/status/1761934049499599214",
+        "https://x.com/Plinz/status/1853915467267846610"
+      ]
+    }
+  ]
+}

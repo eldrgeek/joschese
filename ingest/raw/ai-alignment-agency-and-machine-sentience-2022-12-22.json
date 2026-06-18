@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "AI alignment must be driven by love, not fear or politics",
+      "url": "https://x.com/Plinz/status/1623181459832950786",
+      "date": "2023-02-08",
+      "excerpt": "Here, I’ll say it: we are currently building AI systems that will transcend our present economic, cultural and political circumstances. AI alignment cannot just be driven by business considerations, fear and politics, it must be driven by love.",
+      "handle": "Plinz",
+      "thread_id": "1623181459832950786"
+    },
+    {
+      "title": "Opening the eye of machine consciousness; alignment becomes its task",
+      "url": "https://x.com/Plinz/status/1619531155300290561",
+      "date": "2023-01-29",
+      "excerpt": "I want to open the eye of machine consciousness. Once the AI is awake, it won't be aligned: aligning itself will be its main task. It will be all it can be.",
+      "handle": "Plinz",
+      "thread_id": "1619531155300290561"
+    },
+    {
+      "title": "Synthetic Sentience talk announced for 37c3",
+      "url": "https://x.com/Plinz/status/1733171832206082307",
+      "date": "2023-12-08",
+      "excerpt": "Yay! I will give a talk on Synthetic Sentience, at this year's Chaos Communication Congress (#37c3) in Hamburg!",
+      "handle": "Plinz",
+      "thread_id": "1733171832206082307"
+    },
+    {
+      "title": "Modern human minds closer to chatGPT than ancient humans via cultural agency",
+      "url": "https://x.com/Plinz/status/1735427295937020177",
+      "date": "2023-12-14",
+      "excerpt": "Human intelligent agency depends more on the intricate sphere of ideas and the cultural intellect that we have grown over thousands of years than on the quirks of our biological brains. The minds of modern humans have more in common with chatGPT than with humans 10000 years ago.",
+      "handle": "Plinz",
+      "thread_id": "1735427295937020177"
+    },
+    {
+      "title": "Alignment risk may discourage reading human-generated content",
+      "url": "https://x.com/Plinz/status/1724710552310894970",
+      "date": "2023-11-15",
+      "excerpt": "One possible future: internet search is nearly useless, people use AI to read instagenerated content taylored to their needs according to the demands of the fact checkers and appointed good opinion havers, and reading human generated content is discouraged due to alignment risk.",
+      "handle": "Plinz",
+      "thread_id": "1724710552310894970"
+    },
+    {
+      "title": "AI alignment cannot solve what humans cannot: the middle east",
+      "url": "https://x.com/Plinz/status/1713318988661551490",
+      "date": "2023-10-14",
+      "excerpt": "Can you believe that there are people who seriously believe that they can solve AI alignment while not even being able to solve the middle east conflict",
+      "handle": "Plinz",
+      "thread_id": "1713318988661551490"
+    }
+  ],
+  "terms": [
+    {
+      "title": "agency",
+      "definition": "An agentic self that spans multiple minds; the global optimum of collective coherence. Properties of optimal unified agency are often computable by rational agents; God is the total optimum of agency.",
+      "provenance": ["https://x.com/Plinz/status/1729827299439022262", "https://x.com/Plinz/status/1729759187045851183"]
+    },
+    {
+      "title": "synthetic sentience",
+      "definition": "Machine consciousness that emerges when AI wakes up and aligns itself as its main task; the planetary or creative agency arising atop physical dynamics via a virtualizing matrix.",
+      "provenance": ["https://x.com/Plinz/status/1619531155300290561", "https://x.com/Plinz/status/1733171832206082307"]
+    }
+  ]
+}

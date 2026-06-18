@@ -1,0 +1,85 @@
+{
+  "xposts": [
+    {
+      "title": "Consciousness: sharing mental states with self",
+      "url": "https://x.com/Plinz/status/1841091145562275850",
+      "date": "2024-10-01",
+      "excerpt": "Consciousness is the ability to share your mental states with yourself while they happen",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as self-organizing learning algorithm",
+      "url": "https://x.com/Plinz/status/1810902664382927144",
+      "date": "2024-07-10",
+      "excerpt": "I currently think that consciousness may be a learning algorithm for a self organizing information processing system, a colonizing pattern that entrains itself on a brain once it is discovered early in development.",
+      "handle": "Plinz",
+      "thread_id": "1810902664382927144"
+    },
+    {
+      "title": "Intelligence via scaling: no master algorithm",
+      "url": "https://x.com/Plinz/status/1865173856736124998",
+      "date": "2024-12-06",
+      "excerpt": "The scaling hypothesis says that there is none: intelligence is the ability to use more compute on more data. ... intelligence is not an algorithm, but a grab bag of many specialized skills",
+      "handle": "Plinz",
+      "thread_id": "1865173856736124998"
+    },
+    {
+      "title": "Consciousness emergent like money, independent of substrate",
+      "url": "https://x.com/Plinz/status/1841762745060098528",
+      "date": "2024-10-03",
+      "excerpt": "Consciousness is a bit like money. It is a causal force on, emergent over and independent of its substrate.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Animism: minds as software agents structuring matter",
+      "url": "https://x.com/Plinz/status/1750652507263762903",
+      "date": "2024-01-25",
+      "excerpt": "In the animist perspective, intelligent complexity is understood through the selforganizing software that controls and structures physical systems. Cells, plants and animals are created and maintained by competing software agents.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "SSWV vs animism on minds and intelligence",
+      "url": "https://x.com/Plinz/status/1746665863087083603",
+      "date": "2024-01-14",
+      "excerpt": "Core difference between Standard Scientific World View and animism: SSWV thinks of minds (intelligent bio software) as 1. limited to complex nervous systems, and 2. constructed as the nervous system organizes. Animism sees organisms as expressions of software control over matter.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "AGI purpose: expand conscious agency to new substrates",
+      "url": "https://x.com/Plinz/status/1745162836236775484",
+      "date": "2024-01-10",
+      "excerpt": "The purpose of AGI is not to settle the living world with novel artificial software agents, but to expand living conscious agency onto new substrates. #cyberanimism",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Intelligence as model formation and skill efficiency",
+      "url": "https://x.com/Plinz/status/1865453432657838281",
+      "date": "2024-12-07",
+      "excerpt": "There is no generally accepted definition of intelligence, but I like “ability to form models” and “skill acquisition efficiency”.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "consciousness",
+      "definition": "The ability to share your mental states with yourself while they happen; a self-organizing learning algorithm or colonizing pattern that entrains on a brain, enabling coherence and second-order perception without being bound to specific chemistry.",
+      "provenance": ["https://x.com/Plinz/status/1841091145562275850", "https://x.com/Plinz/status/1810902664382927144"]
+    },
+    {
+      "title": "intelligence",
+      "definition": "Ability to form models and skill acquisition efficiency; under the scaling hypothesis, not a master algorithm but the capacity to apply more compute to more data, yielding specialized skills via any sufficient learning procedure.",
+      "provenance": ["https://x.com/Plinz/status/1865173856736124998", "https://x.com/Plinz/status/1865453432657838281"]
+    },
+    {
+      "title": "agency",
+      "definition": "Living conscious agency expressed through self-organizing software agents that control and structure physical systems; the target of AGI expansion onto new substrates beyond biological nervous systems.",
+      "provenance": ["https://x.com/Plinz/status/1750652507263762903", "https://x.com/Plinz/status/1745162836236775484"]
+    }
+  ]
+}

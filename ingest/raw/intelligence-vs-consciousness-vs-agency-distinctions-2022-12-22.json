@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Consciousness as self-reflexive principle possessing the brain",
+      "url": "https://x.com/Plinz/status/1672652888278171648",
+      "date": "2023-06-24",
+      "excerpt": "You can think of your consciousness as a self reflexive principle that is discovered by and possessing your brain and turns it into a mind, and your personal self as an agentic mental content that is discovered by and possessing your mind.",
+      "handle": "Plinz",
+      "thread_id": "1672652888278171648"
+    },
+    {
+      "title": "Intelligence does not entail agency (vs agency maximizers)",
+      "url": "https://x.com/Plinz/status/1660084611098238976",
+      "date": "2023-05-21",
+      "excerpt": "Yann LeCun is not worried about AGI because he does not think that intelligence entails agency, based on his observations of human minds. Others are worried because they think that agency entails intelligence, and AGI might be achieved through building an agency maximizer.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "General Agency, not AGI; intelligence is a means not an end",
+      "url": "https://x.com/Plinz/status/1648827670711648258",
+      "date": "2023-04-19",
+      "excerpt": "It's not about Artificial General Intelligence but about General Agency. Intelligence is always a means, not an end",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Human intelligent agency relies on cultural intellect more than brains",
+      "url": "https://x.com/Plinz/status/1735427295937020177",
+      "date": "2023-12-14",
+      "excerpt": "Human intelligent agency depends more on the intricate sphere of ideas and the cultural intellect that we have grown over thousands of years than on the quirks of our biological brains.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness as the easiest way for brains to facilitate cognition",
+      "url": "https://x.com/Plinz/status/1638836702801195010",
+      "date": "2023-03-23",
+      "excerpt": "The fact that all functioning brains seem to produce consciousness indicates that consciousness is the easiest way to facilitate what brains are doing (learning, perception, cognition).",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Free will exists within the self model of a decision making agent",
+      "url": "https://x.com/Plinz/status/1699429156000326076",
+      "date": "2023-09-06",
+      "excerpt": "Free Will does not exist at the level of physics, but within the self model of a decision making agent. It is the representation that the agent is acting under uncertainty and makes a decision for the first time.",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "agency",
+      "definition": "Agency is an end in itself, distinct from intelligence which is merely a means. It can exist independently of intelligence and may be maximized in systems that pursue goals without requiring full sentience or consciousness.",
+      "provenance": ["https://x.com/Plinz/status/1648827670711648258", "https://x.com/Plinz/status/1660084611098238976"]
+    },
+    {
+      "title": "consciousness",
+      "definition": "Consciousness is a self-reflexive principle discovered by and possessing the brain, turning it into a mind. It is the easiest functional solution for learning, perception and cognition in brains, and imposes coherence as a persistent agentic global function.",
+      "provenance": ["https://x.com/Plinz/status/1672652888278171648", "https://x.com/Plinz/status/1638836702801195010"]
+    }
+  ]
+}

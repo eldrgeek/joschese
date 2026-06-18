@@ -1,0 +1,48 @@
+{
+  "xposts": [
+    {
+      "title": "Spirit means self-organizing software agent",
+      "url": "https://x.com/Plinz/status/2031137353356685720",
+      "date": "2026-03-09",
+      "excerpt": "The ancient word \"spirit\" means \"self organizing software agent\". \"Software\" means \"representationally encoded causal structure\". Software is independent of the substrate, as long as the substrate has the means to execute it.",
+      "handle": "Plinz",
+      "thread_id": "2031133385096310824"
+    },
+    {
+      "title": "Aristotle on soul and body interdependence",
+      "url": "https://x.com/Plinz/status/2031139992404373567",
+      "date": "2026-03-09",
+      "excerpt": "Aristotle understood this (he also did not believe that the soul survives the body: body and soul require each other to function).",
+      "handle": "Plinz",
+      "thread_id": "2031133385096310824"
+    },
+    {
+      "title": "Soul as agentic software producing experience",
+      "url": "https://x.com/Plinz/status/2033347180413804583",
+      "date": "2026-03-16",
+      "excerpt": "The soul (or psyche) is the agentic software that produces your conscious experience, maintains your self and lets it act on the world. This software is an evolving causal pattern in the communications between and within cells. I don't mean this metaphorically, but literally.",
+      "handle": "Plinz",
+      "thread_id": "2033141767282012418"
+    },
+    {
+      "title": "Return 'soul' to original meaning as psyche",
+      "url": "https://x.com/Plinz/status/2033432527168479709",
+      "date": "2026-03-16",
+      "excerpt": "I did agree with your position in the past, but I think we should return the word to its original meaning (psyche), despite its use in Christian mythology. We could make up a new word, such as sosacabs (self organizing software agent controlling a biological substrate) but why?",
+      "handle": "Plinz",
+      "thread_id": "2033141767282012418"
+    }
+  ],
+  "terms": [
+    {
+      "title": "spirit",
+      "definition": "The ancient word \"spirit\" means \"self organizing software agent\". Software is representationally encoded causal structure that is independent of the substrate as long as the substrate can execute it. Spirits are thus patterns that sustain and organize themselves.",
+      "provenance": ["https://x.com/Plinz/status/2031137353356685720"]
+    },
+    {
+      "title": "soul / psyche",
+      "definition": "The soul (or psyche) is the agentic software that produces conscious experience, maintains the self and enables action. It is an evolving causal pattern in cellular communications, literally rather than metaphorically; body and soul require each other.",
+      "provenance": ["https://x.com/Plinz/status/2033347180413804583", "https://x.com/Plinz/status/2031139992404373567"]
+    }
+  ]
+}

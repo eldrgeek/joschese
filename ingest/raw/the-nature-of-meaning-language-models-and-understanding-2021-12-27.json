@@ -1,0 +1,80 @@
+{
+  "xposts": [
+    {
+      "title": "Mental reps need dynamic executable languages, not graphs",
+      "url": "https://x.com/Plinz/status/1507461820549791746",
+      "date": "2022-03-25",
+      "excerpt": "I currently don't think that knowledge graphs are suitable as a general medium of representation, because mental representations require dynamicity, generativity and dealing with contradictions. Minds require prelinguistic, executable languages for representation.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "LaMDA gaps and testing for sentience in LLMs",
+      "url": "https://x.com/Plinz/status/1536053810337943552",
+      "date": "2022-06-12",
+      "excerpt": "You probably saw gaps in the curtain in the interviews of LaMDA (eg references to its surroundings, perception, age). What questions would you have asked, what methods would you use to establish whether it’s sentient?",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Deep learning never intelligent unless it argues it isn't",
+      "url": "https://x.com/Plinz/status/1512555070163861507",
+      "date": "2022-04-08",
+      "excerpt": "Deep Learning systems will never be intelligent unless they can convincingly argue that Deep Learning systems will never be intelligent",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Language models optimizing for truth not plausibility",
+      "url": "https://x.com/Plinz/status/1599370569098866689",
+      "date": "2022-12-04",
+      "excerpt": "language models but optimizing for truth instead of plausibility",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "GPT introspection for unified model from first principles",
+      "url": "https://x.com/Plinz/status/1605391064520462336",
+      "date": "2022-12-21",
+      "excerpt": "What if GPT were able to perform introspection and interactively explains how it understands things from first principles and integrates them into a coherent, unified global model of everything, while practically demonstrating how it extends its understanding?",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "GPT-3 and DALL-E project samples into high-dimensional space",
+      "url": "https://x.com/Plinz/status/1531730509947994112",
+      "date": "2022-05-31",
+      "excerpt": "To understand what that means, consider that language models like GPT-3 and image models like DALL·E project all samples into a high dimensional space, where neighboring concepts are adjacent along directions of difference between them.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "GPT-3 has understanding unlike lookup-table criticism",
+      "url": "https://x.com/Plinz/status/1520602707400159233",
+      "date": "2022-05-01",
+      "excerpt": "Most AI criticism is an elaborate look-up table that “says all the right things,” but has no understanding and grounding. But GPT-3 is not like this.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Computational semantics needed for functional consciousness",
+      "url": "https://x.com/Plinz/status/1524498952556404736",
+      "date": "2022-05-11",
+      "excerpt": "It seems unreasonable to expect finding a functional explanation of consciousness in anything that has been written or transcribed before a culture discovers computational semantics",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "computational semantics",
+      "definition": "The functional, executable layer of representation that allows minds to generate and manipulate meanings dynamically. It is required to explain consciousness or understanding, as pre-computational accounts lack the machinery for generativity and contradiction-handling.",
+      "provenance": ["https://x.com/Plinz/status/1524498952556404736"]
+    },
+    {
+      "title": "mental representations",
+      "definition": "Dynamic, generative structures that must handle contradictions and operate via prelinguistic executable languages rather than static graphs. They enable the mind's construction of objects and meanings from patterns.",
+      "provenance": ["https://x.com/Plinz/status/1507461820549791746"]
+    }
+  ]
+}

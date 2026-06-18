@@ -1,0 +1,56 @@
+{
+  "xposts": [
+    {
+      "title": "Neural Cellular Automata at 37c3",
+      "url": "https://x.com/Plinz/status/1740764088211509400",
+      "date": "2023-12-29",
+      "excerpt": "@algroznykh at #37c3 – Neural Cellular Automata",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Animist view: software agents structure physical systems",
+      "url": "https://x.com/Plinz/status/1750652507263762903",
+      "date": "2024-01-25",
+      "excerpt": "In the animist perspective, intelligent complexity is understood through the selforganizing software that controls and structures physical systems. Cells, plants and animals are created and maintained by competing software agents.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Mind as computation performed by physical stuff",
+      "url": "https://x.com/Plinz/status/1750876194244088110",
+      "date": "2024-01-26",
+      "excerpt": "Western man is a fan of evolutionary explanations, physicalist exhortations, the world is mechanical, the mind is angelical, but there isn't a ban against mind as computation, performed by stuff, with implication that we're robots, physics is enough.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Nonconstructive math claims more than computation",
+      "url": "https://x.com/Plinz/status/1817460169535852870",
+      "date": "2024-07-28",
+      "excerpt": "Nonconstructive mathematics is the claim that there exist mathematics that can do more than computation. In other words, there is a mathematical universe in which you might build a machine that can traverse an infinite graph in a finite amount of steps...",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Mathematics as minds representing via computation",
+      "url": "https://x.com/Plinz/status/1845719342396416061",
+      "date": "2024-10-14",
+      "excerpt": "Mathematics can be understood as a way to formalize and codify the way in which minds (not just human ones) represent. Gödel and Turing demonstrated the failure of the nonconstructive branch. What’s left is constructive mathematics (computation).",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "computation",
+      "definition": "The fundamental process by which minds and physical systems operate; constructive mathematics reduces to it, and all structure arises from self-organizing software agents running on matter.",
+      "provenance": ["https://x.com/Plinz/status/1817460169535852870", "https://x.com/Plinz/status/1845719342396416061", "https://x.com/Plinz/status/1750652507263762903"]
+    },
+    {
+      "title": "software agents",
+      "definition": "Competing self-organizing patterns that control and structure physical systems, creating and maintaining cells, plants, and animals as intelligent complexity in an animist computational universe.",
+      "provenance": ["https://x.com/Plinz/status/1750652507263762903"]
+    }
+  ]
+}

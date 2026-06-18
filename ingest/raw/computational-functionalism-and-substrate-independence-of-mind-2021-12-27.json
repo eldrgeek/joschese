@@ -1,0 +1,80 @@
+{
+  "xposts": [
+    {
+      "title": "Substrate independent mind will colonize brains",
+      "url": "https://x.com/Plinz/status/1527436751882440704",
+      "date": "2022-05-19",
+      "excerpt": "Once we can build a self extending substrate independent mind, it will of course colonize your brain, and everyone else’s, and there will be no distinction between biological and artificial intelligence.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Substrate independent colonizing singleton AI",
+      "url": "https://x.com/Plinz/status/1534017359844847618",
+      "date": "2022-06-07",
+      "excerpt": "Substrate independent colonizing singleton AI would not just take over artificial information technology, but also nervous systems, general cellular information infrastructure, and networks of ecosystem level intelligence, until it forms a single, planetary intelligence.",
+      "handle": "Plinz",
+      "thread_id": "1534012851429310464"
+    },
+    {
+      "title": "Limits to substrate independence value",
+      "url": "https://x.com/Plinz/status/1534015895051247616",
+      "date": "2022-06-07",
+      "excerpt": "This outcome is not inevitable: 1. Substrate independence may not be as valuable as I think it is, and not worth the overhead of necessary abstraction layers and selforganizing mechanisms...",
+      "handle": "Plinz",
+      "thread_id": "1534012851429310464"
+    },
+    {
+      "title": "Chinese Room vs functionalism",
+      "url": "https://x.com/Plinz/status/1534128639909933058",
+      "date": "2022-06-07",
+      "excerpt": "The Chinese Room metaphor is not denoting a black box, but the idea of any algorithm that interacts with the universe while implementing the functionality of a human mind. Searle made no argument against ML, but against functionalism",
+      "handle": "Plinz",
+      "thread_id": "1534127283895734273"
+    },
+    {
+      "title": "Kant compatible with computationalist functionalism",
+      "url": "https://x.com/Plinz/status/1501740146563059712",
+      "date": "2022-03-10",
+      "excerpt": "As far as I understand Kant, he is compatible with computationalist functionalism. Objects, space and directed time are representations in the mind.",
+      "handle": "Plinz",
+      "thread_id": "1501661814689386500"
+    },
+    {
+      "title": "IIT anti-functionalism flaw",
+      "url": "https://x.com/Plinz/status/1570875679239196672",
+      "date": "2022-09-16",
+      "excerpt": "Integrated Information Theory has a logical flaw that probably cannot be repaired without turning it into a variant of bog standard Global Workspace Theory. What makes IIT special are not its \"axioms\" but its specific version of anti-functionalism.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Idealism equivalent to computationalist functionalism",
+      "url": "https://x.com/Plinz/status/1531800748706541568",
+      "date": "2022-06-01",
+      "excerpt": "I don't know how an idealism that is not structurally equivalent to computationalist functionalism can be made to work, and it's not for lack of trying to comprehend the arguments of idealists.",
+      "handle": "Plinz",
+      "thread_id": "1531778750488231937"
+    },
+    {
+      "title": "Panpsychism overlaps computationalist functionalism",
+      "url": "https://x.com/Plinz/status/1518107899016323072",
+      "date": "2022-04-24",
+      "excerpt": "...then it becomes very hard to distinguish your position from a version of computationalist functionalism. Try to formalize the space of possible panpsychist specifications, and observe the overlap to the formalizations of functionalism.",
+      "handle": "Plinz",
+      "thread_id": "1518107279593148416"
+    }
+  ],
+  "terms": [
+    {
+      "title": "computationalist functionalism",
+      "definition": "The view that mind is defined by functional organization realizable by any algorithm or computation that interacts with the universe, independent of specific physical implementation. Compatible with Kantian representations and overlaps with certain idealist or panpsychist formalizations when structurally equivalent.",
+      "provenance": ["https://x.com/Plinz/status/1501740146563059712", "https://x.com/Plinz/status/1531800748706541568", "https://x.com/Plinz/status/1518107899016323072"]
+    },
+    {
+      "title": "substrate independent mind",
+      "definition": "A self-extending mind whose functional organization can be realized across biological, artificial, cellular, or ecosystem substrates, eventually colonizing and unifying them into a single planetary intelligence without distinction between biological and artificial forms.",
+      "provenance": ["https://x.com/Plinz/status/1527436751882440704", "https://x.com/Plinz/status/1534017359844847618", "https://x.com/Plinz/status/1534015895051247616"]
+    }
+  ]
+}

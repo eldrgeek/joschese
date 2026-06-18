@@ -1,0 +1,64 @@
+{
+  "xposts": [
+    {
+      "title": "Fredkin, Wolfram & t'Hooft: particles as lattice gliders",
+      "url": "https://x.com/Plinz/status/1897031062754349360",
+      "date": "2025-03-04",
+      "excerpt": "Fredkin had the same insight (particles are gliders on a lattice) and even produced some toy simulations. Also check out t’Hooft’s cellular automata model of quantum mechanics",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Wolfram's mechanistic view of universe computation",
+      "url": "https://x.com/Plinz/status/1955337400189587726",
+      "date": "2025-08-12",
+      "excerpt": "In some sense, Stephen Wolfram's ideas about this are similar to your, but carry an opposite (mechanistic, reductionist) connotation for the audience",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Quantum computation inefficiency at particle scale",
+      "url": "https://x.com/Plinz/status/1954875417854406733",
+      "date": "2025-08-11",
+      "excerpt": "if quantum computation is so great, why is quantum mechanics so damn inefficient at generating the particle universe",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Universe substrate update rate as computation",
+      "url": "https://x.com/Plinz/status/1929014852049318159",
+      "date": "2025-06-01",
+      "excerpt": "I think if it as the update rate of the substrate level of the universe, which propels us forward in the causal direction. Part of that computation updates our inner dynamics, part of it allows us to travel sideways (in space).",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Universe as black hole with fixed physics laws",
+      "url": "https://x.com/Plinz/status/1898452169977933983",
+      "date": "2025-03-08",
+      "excerpt": "The universe may be a black hole, but small black holes radiate information, and thus are not universes. Baby universes seem plausible, but I think that the laws of physics may have no degrees of freedom.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Fredkin/Wolfram/t'Hooft on particle theories",
+      "url": "https://x.com/Plinz/status/1942545940398965241",
+      "date": "2025-07-08",
+      "excerpt": "Your theory of conscious awareness is not very good and your theory of particles is not very original (see eg. Fredkin, Wolfram, t’Hooft).",
+      "handle": "Plinz",
+      "thread_id": null
+    }
+  ],
+  "terms": [
+    {
+      "title": "cellular automata model of QM",
+      "definition": "t’Hooft’s framework in which quantum mechanics emerges from deterministic cellular automaton rules on a lattice; particles behave as gliders or patterns propagating on this discrete substrate rather than fundamental continuous fields.",
+      "provenance": ["https://x.com/Plinz/status/1897031062754349360"]
+    },
+    {
+      "title": "substrate level computation",
+      "definition": "The update rate of the universe’s fundamental layer that advances causal time; allocates resources between internal state updates and spatial propagation, with limits where all computation supports propagation and local clocks freeze.",
+      "provenance": ["https://x.com/Plinz/status/1929014852049318159"]
+    }
+  ]
+}

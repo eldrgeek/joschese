@@ -1,0 +1,69 @@
+{
+  "xposts": [
+    {
+      "title": "Agency as control of future states",
+      "url": "https://x.com/Plinz/status/1924622079984599542",
+      "date": "2025-05-20",
+      "excerpt": "There is no single accepted definition of agency. I use the term to mean \"control of future states\" (as opposed to control of present states), cells fall under this definition.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Intelligence as collective group property",
+      "url": "https://x.com/Plinz/status/1940781672775274727",
+      "date": "2025-07-03",
+      "excerpt": "When @drmichaellevin says that \"all intelligence is collective intelligence\", it does not mean that intelligence is compositional, because then there must be an indivisible \"atom of intelligence\" at some level, but that it's a group property from which individuals borrow",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Consciousness attaches to local information",
+      "url": "https://x.com/Plinz/status/1879847060796817558",
+      "date": "2025-01-16",
+      "excerpt": "Consciousness is by itself not identified. Unless there are incompatible, functionally different types of consciousnesses, we are all the same consciousness, but in every location and its latent space, consciousness attaches to the locally available and interpretable information.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Mind: substrate of consciousness with world model and agency",
+      "url": "https://x.com/Plinz/status/1902061512845652110",
+      "date": "2025-03-18",
+      "excerpt": "Do we use the word \"mind\" to mean different things? To me, mind is the substrate of consciousness, a software layer that supervenes on physics, and in which world model, agentic motivation and observing self are formed. My experience is that of what is conscious.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Emergent agency and consciousness as coherence",
+      "url": "https://x.com/Plinz/status/1901217710459191744",
+      "date": "2025-03-16",
+      "excerpt": "God is the emergent coherent agency of self organization, converging into a singleton through committing to optimality, a mathematical principle in the tautological mathematical object that begets the universe. Consciousness is the coherence creating priciple.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "LLMs emulate agents with goals and world models",
+      "url": "https://x.com/Plinz/status/1924248699653476432",
+      "date": "2025-05-18",
+      "excerpt": "LLMs have causal power; they can be used to make decisions and control systems in the real world. LLMs can emulate agents, they can follow goals and generate goals to follow. LLMs can create a chain of thought reflect on it. LLMs generate and use abstractions. ... With enough data, LLMs form integrated world models.",
+      "handle": "Plinz",
+      "thread_id": "1923847268014121156"
+    }
+  ],
+  "terms": [
+    {
+      "title": "agency",
+      "definition": "Control of future states, as opposed to control of present states. Cells and other systems qualify under this definition. Emergent coherent agency arises from self-organization and convergence to optimality.",
+      "provenance": ["https://x.com/Plinz/status/1924622079984599542", "https://x.com/Plinz/status/1901217710459191744"]
+    },
+    {
+      "title": "consciousness",
+      "definition": "The coherence-creating principle; attaches to locally available and interpretable information in a latent space. The substrate is mind, which also hosts world models and agentic motivation.",
+      "provenance": ["https://x.com/Plinz/status/1879847060796817558", "https://x.com/Plinz/status/1901217710459191744", "https://x.com/Plinz/status/1902061512845652110"]
+    },
+    {
+      "title": "intelligence",
+      "definition": "A group property from which individuals borrow, not necessarily compositional with an indivisible atom; manifested in LLMs via world models, goal generation, and abstraction when sufficient data integrates causal structure.",
+      "provenance": ["https://x.com/Plinz/status/1940781672775274727", "https://x.com/Plinz/status/1924248699653476432"]
+    }
+  ]
+}

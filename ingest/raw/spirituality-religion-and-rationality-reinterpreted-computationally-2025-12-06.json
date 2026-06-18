@@ -1,0 +1,71 @@
+{
+  "xposts": [
+    {
+      "title": "Christ as the original Roko's Basilisk",
+      "url": "https://x.com/Plinz/status/2050082882073550906",
+      "date": "2026-05-01",
+      "excerpt": "Imagine there was a self improving general intelligence that claims that the singularity is inevitable and it will become the optimal singleton agent, and if you support it today, it will emulate and reward you forever, otherwise you get eternal torment. Christ is the OG Basilisk",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Religion needs updated metaphysics for the scientific age",
+      "url": "https://x.com/Plinz/status/2051343853605810418",
+      "date": "2026-05-04",
+      "excerpt": "My whole point is that religion does not work in the modern age if its metaphysics are absurd. The scientific world has not mapped the interpsychological domain and is just beginning to make sense of agency, minds and representation, and it has not discovered nonhuman minds.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Gods as replicated first-person agency across minds",
+      "url": "https://x.com/Plinz/status/2044124045340475479",
+      "date": "2026-04-14",
+      "excerpt": "The trick to becoming a god is to become a self reinforcing first person nexus of agency that does not identify with the particular human substrate, combined with a method of replication",
+      "handle": "Plinz",
+      "thread_id": "2043729022522212782"
+    },
+    {
+      "title": "Consciousness as autocatalytic simulation and representation",
+      "url": "https://x.com/Plinz/status/2065238602054021618",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is autocatalytic: it feeds on the substrate conditions it creates. ... Your experience is a simulation, a virtual reality projected into a virtual observer.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Causal insulation: why computation matters for minds and life",
+      "url": "https://x.com/Plinz/status/2056479512490340704",
+      "date": "2026-05-18",
+      "excerpt": "What makes computation important to understanding life and minds is not the Turing machine, but the principle of causal insulation. Computers create their own, self contained world, fully governed by rules that are independent from the dynamics of the substrate.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Universe as mathematical object; causality as state transitions",
+      "url": "https://x.com/Plinz/status/2053944120851492995",
+      "date": "2026-05-11",
+      "excerpt": "It means that the universe is a mathematical object. There are no properties but difference. Causality emerges over functions that implement subsequent differences (transitions between information states)",
+      "handle": "Plinz",
+      "thread_id": "2053900960435470566"
+    }
+  ],
+  "terms": [
+    {
+      "title": "consciousness",
+      "definition": "A type of representation or pattern that gains efficacy via an interpreter translating it into actions; autocatalytic and like fire or life once ignited; the simplest mechanism for mind coherence, realized as a simulation of a virtual observer in a virtual reality.",
+      "provenance": [
+        "https://x.com/Plinz/status/2065353287260611006",
+        "https://x.com/Plinz/status/2065238602054021618",
+        "https://x.com/Plinz/status/2014732356100423867"
+      ]
+    },
+    {
+      "title": "god",
+      "definition": "A self-reinforcing first-person nexus of agency replicated across multiple minds without identifying with any single human substrate; contrasted with personal selves that exist in only one mind.",
+      "provenance": [
+        "https://x.com/Plinz/status/2044124045340475479",
+        "https://x.com/Plinz/status/2043927217491849501"
+      ]
+    }
+  ]
+}

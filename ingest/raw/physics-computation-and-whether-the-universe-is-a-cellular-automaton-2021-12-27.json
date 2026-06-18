@@ -1,0 +1,51 @@
+{
+  "xposts": [
+    {
+      "title": "Ruliad as all finite automata rules applied unboundedly",
+      "url": "https://x.com/Plinz/status/1531500653477916672",
+      "date": "2022-05-31",
+      "excerpt": "The Ruliad is the result of the simultaneous application of all finite automata rules for an unbounded number of steps. The universe we observe looks exactly as it would if we were in the Ruliad.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Nondeterministic Turing Machines for foundational physics",
+      "url": "https://x.com/Plinz/status/1514279497490595843",
+      "date": "2022-04-13",
+      "excerpt": "Here is the recording of my conversation with @stephen_wolfram, on understanding Nondeterministic Turing Machines as a paradigm for foundational physics and mental representations",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Mind and universe as automata: Wolfram conversation",
+      "url": "https://x.com/Plinz/status/1513668232678297605",
+      "date": "2022-04-12",
+      "excerpt": "What kind of automata are mind and universe? A conversation with Stephen Wolfram",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "Turing complete cellular automaton vs Python for universe",
+      "url": "https://x.com/Plinz/status/1530730836726669312",
+      "date": "2022-05-29",
+      "excerpt": "A Turing complete cellular automaton is not better or worse than Python for running integer arithmetic, a mind or a universe.",
+      "handle": "Plinz",
+      "thread_id": "1530633328784658433"
+    },
+    {
+      "title": "Ruliad as ultimate tautology implementing universe",
+      "url": "https://x.com/Plinz/status/1566325107081244672",
+      "date": "2022-09-04",
+      "excerpt": "I think the ruliad is implemented by default, it’s the ultimate tautology",
+      "handle": "Plinz",
+      "thread_id": "1565959715904925696"
+    }
+  ],
+  "terms": [
+    {
+      "title": "Ruliad",
+      "definition": "The result of applying all finite automata rules simultaneously for unbounded steps; the space containing all possible computations from which our observed universe emerges as a branch.",
+      "provenance": ["https://x.com/Plinz/status/1531500653477916672", "https://x.com/Plinz/status/1566325107081244672"]
+    }
+  ]
+}

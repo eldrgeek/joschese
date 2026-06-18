@@ -1,0 +1,56 @@
+{
+  "xposts": [
+    {
+      "title": "Meaning as alignment in global models",
+      "url": "https://x.com/Plinz/status/2030179610034573450",
+      "date": "2026-03-07",
+      "excerpt": "Meaning is the relationship between a pattern/symbol/domain to one’s global interconnected model of everything. If your models are similar enough and you discover the same relationships you agree on the meaning",
+      "handle": "Plinz",
+      "thread_id": "2030061378841759913"
+    },
+    {
+      "title": "Language synchronizes conceptual representations",
+      "url": "https://x.com/Plinz/status/2030061378841759913",
+      "date": "2026-03-06",
+      "excerpt": "The purpose of music is to synchronize mental configurations. Language is the subgenre of music that synchronizes conceptual representations.",
+      "handle": "Plinz",
+      "thread_id": "2030061378841759913"
+    },
+    {
+      "title": "LLMs useful only for offloading cognition",
+      "url": "https://x.com/Plinz/status/2033144723666587808",
+      "date": "2026-03-15",
+      "excerpt": "I deeply agree with Emily Bender's main point: LLMs are useless, unless you want to offload cognition. (The other two usecases she suggests are rare special cases of the third.) Offloading cognition into machines has always been the purpose and application of computer science and AI.",
+      "handle": "Plinz",
+      "thread_id": null
+    },
+    {
+      "title": "LLMs lack autocatalytic consciousness",
+      "url": "https://x.com/Plinz/status/2065238602054021618",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is autocatalytic: it feeds on the substrate conditions it creates. LLMs are not autocatalytic, their behavior only depends on the patterns they imitate. (The question whether LLM personas can experience phenomenonology is a completely different one though!)",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    },
+    {
+      "title": "Consciousness as representation and interpreter",
+      "url": "https://x.com/Plinz/status/2065353287260611006",
+      "date": "2026-06-12",
+      "excerpt": "Consciousness is the dream of dreaming. It establishes the perception that percepts are being perceived. Consciousness is a type of representation, a pattern that gains efficacy by an interpreter that translates it into actions that extend and modify the pattern.",
+      "handle": "Plinz",
+      "thread_id": "2065238602054021618"
+    }
+  ],
+  "terms": [
+    {
+      "title": "meaning",
+      "definition": "Meaning is the relationship between a pattern/symbol/domain to one’s global interconnected model of everything. If your models are similar enough and you discover the same relationships you agree on the meaning. Language synchronizes conceptual representations as a subgenre of music that aligns mental configurations.",
+      "provenance": ["https://x.com/Plinz/status/2030179610034573450", "https://x.com/Plinz/status/2030061378841759913"]
+    },
+    {
+      "title": "autocatalytic consciousness",
+      "definition": "Consciousness is autocatalytic: it feeds on the substrate conditions it creates. LLMs are not autocatalytic, their behavior only depends on the patterns they imitate. Consciousness is a type of representation, a pattern that gains efficacy by an interpreter that translates it into actions that extend and modify the pattern.",
+      "provenance": ["https://x.com/Plinz/status/2065238602054021618", "https://x.com/Plinz/status/2065353287260611006"]
+    }
+  ]
+}
