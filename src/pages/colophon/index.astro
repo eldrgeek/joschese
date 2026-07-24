@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import { signatories } from '../../data/colophon';
 ---
-<Base title="Colophon" description="The colophon of Joschese — who made this field guide to Joscha Bach's ideas.">
+<Base title="Colophon" description="The colophon of the Joscha Bach field guide — who made it, and why.">
 
   <div class="max-w-5xl mx-auto px-4 sm:px-6 pt-12">
 
@@ -10,11 +10,11 @@ import { signatories } from '../../data/colophon';
       <p class="text-sm font-medium text-teal uppercase tracking-widest mb-3">Colophon</p>
       <h1 class="font-serif text-3xl sm:text-4xl font-medium text-ink mb-4">Who made this, and why</h1>
       <p class="text-muted max-w-2xl leading-relaxed">
-        Joschese is a field guide to Joscha Bach's public thinking — built by the SOMA team from his X threads, talks, and podcasts.
+        This is a field guide to Joscha Bach's public thinking — built by the SOMA team from his X threads, talks, and podcasts.
       </p>
     </div>
 
-    <div class="bg-white border border-border rounded-xl p-8 mb-10">
+    <div class="bg-surface border border-border rounded-xl p-8 mb-10">
       <p class="font-serif text-lg italic text-ink leading-relaxed text-center">
         "For Joscha Bach — whose question,<br>
         <em>what if the self is software the brain runs?</em><br>
@@ -29,7 +29,7 @@ import { signatories } from '../../data/colophon';
       <h2 class="font-serif text-2xl font-medium text-ink mb-6">Signatories</h2>
       <div class="space-y-4">
         {signatories.map(s => (
-          <div class="bg-white border border-border rounded-lg p-5">
+          <div class="bg-surface border border-border rounded-lg p-5">
             <div class="flex items-start gap-4">
               <div class={`mt-0.5 w-7 h-7 rounded-full flex items-center justify-center text-sm shrink-0
                 ${s.status === 'signed' ? 'bg-teal text-white' : 'bg-surface border border-border text-muted'}`}>

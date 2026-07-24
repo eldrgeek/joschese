@@ -3,22 +3,22 @@ interface Props {
   title: string;
   description?: string;
 }
-const { title, description = "Joschese — a field guide to Joscha Bach's ideas. Dictionary, corpus browser, and conversation with the computational philosophy of consciousness." } = Astro.props;
+const { title, description = "Joscha Bach — a field guide to his ideas. Dictionary, corpus browser, and conversation with the computational philosophy of consciousness." } = Astro.props;
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} — Joschese</title>
+  <title>{title} — Joscha Bach</title>
   <meta name="description" content={description} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --font-serif: 'Lora', Georgia, serif;
+      --font-serif: 'Cormorant Garamond', Georgia, serif;
       --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
     body { font-family: var(--font-sans); }
@@ -27,9 +27,9 @@ const { title, description = "Joschese — a field guide to Joscha Bach's ideas.
 </head>
 <body class="bg-parchment text-ink min-h-screen flex flex-col">
   <!-- Back to hub -->
-  <div class="bg-ink text-parchment/90 text-xs">
+  <div class="bg-navy-deep text-body/80 text-xs">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 py-1.5">
-      <a href="https://agi2026.netlify.app" class="hover:text-parchment transition-colors">
+      <a href="https://agi2026.netlify.app" class="hover:text-cream transition-colors">
         ← Back to AGI 2026
       </a>
     </div>
@@ -39,7 +39,7 @@ const { title, description = "Joschese — a field guide to Joscha Bach's ideas.
   <nav class="sticky top-0 z-50 bg-parchment/95 backdrop-blur-sm border-b border-border">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
       <a href="/" class="font-serif font-medium text-lg text-teal hover:text-teal-mid transition-colors tracking-wide">
-        Joschese
+        Joscha Bach
       </a>
       <div class="flex items-center gap-6 text-sm font-medium text-muted">
         <a href="/dictionary/" class="hover:text-ink transition-colors">Dictionary</a>
@@ -156,8 +156,8 @@ const { title, description = "Joschese — a field guide to Joscha Bach's ideas.
   </footer>
   <style>
     .society-bar {
-      border-top: 1px solid rgba(15, 20, 31, 0.12);
-      background: #f5f1e6;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      background: #0a0f1a;
       padding: 0.85rem 1.5rem;
       text-align: center;
     }
@@ -165,11 +165,11 @@ const { title, description = "Joschese — a field guide to Joscha Bach's ideas.
       margin: 0;
       font-size: 0.78rem;
       line-height: 1.5;
-      color: #6b6558;
+      color: #9BA3B5;
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
     .society-bar__text strong {
-      color: #1c1a17;
+      color: #F5F1EB;
       font-weight: 600;
     }
     .society-bar__lead {
@@ -181,7 +181,7 @@ const { title, description = "Joschese — a field guide to Joscha Bach's ideas.
       opacity: 0.5;
     }
     .society-bar a {
-      color: #0d7d72;
+      color: #6f9bff;
       text-decoration: none;
     }
     .society-bar a:hover {
